@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Model Email Classifier — Login</title>
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f0f4f8;
+            min-height: 100vh;
+            display: flex; align-items: center; justify-content: center;
+            color: #1e293b;
+        }
+        .wrapper {
+            display: flex; flex-direction: column;
+            align-items: center; gap: 24px;
+            width: 100%; padding: 24px;
+        }
+        .brand { text-align: center; }
+        .brand-badge {
+            display: inline-block;
+            background: #578cfd; color: #facc15;
+            font-size: 10px; font-weight: 700;
+            letter-spacing: 2.5px; text-transform: uppercase;
+            padding: 5px 14px; border-radius: 20px; margin-bottom: 12px;
+        }
+        .brand h1 {
+            font-size: 28px; font-weight: 800;
+            color: #0f172a; letter-spacing: -0.5px; line-height: 1.2;
+        }
+        .brand h1 span { color: #578cfd; }
+        .brand p { margin-top: 6px; font-size: 13px; color: #64748b; }
+        .card {
+            background: #ffffff;
+            border-radius: 8px; padding: 32px 36px;
+            width: 100%; max-width: 400px;
+            box-shadow: 0 4px 20px rgba(15,23,42,0.1);
+            border-top: 3px solid #facc15;
+        }
+        .card h2 { font-size: 17px; font-weight: 700; color: #0f172a; margin-bottom: 4px; }
+        .card > p { font-size: 13px; color: #64748b; margin-bottom: 22px; }
+        .field { margin-bottom: 16px; }
+        .field label {
+            display: block; font-size: 12px; font-weight: 600;
+            color: #475569; margin-bottom: 6px;
+            text-transform: uppercase; letter-spacing: 0.8px;
+        }
+        .field input {
+            width: 100%; padding: 11px 14px;
+            border: 2px solid #e2e8f0; border-radius: 6px;
+            font-size: 14px; color: #0f172a; background: #f8fafc;
+            transition: border-color 0.2s, box-shadow 0.2s; outline: none;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .field input::placeholder { color: #94a3b8; }
+        .field input:focus {
+            border-color: #578cfd; background: #ffffff;
+            box-shadow: 0 0 0 4px rgba(37,99,235,0.12);
+        }
+        .field input.invalid {
+            border-color: #dc2626;
+            box-shadow: 0 0 0 4px rgba(220,38,38,0.1);
+        }
+        .field-error {
+            font-size: 12px; color: #dc2626;
+            margin-top: 5px; display: none; font-weight: 500;
+        }
+        .field-error.visible { display: block; }
+        .btn-login {
+            width: 100%; padding: 13px;
+            background: #facc15; color: #0f172a;
+            border: none; border-radius: 6px;
+            font-size: 15px; font-weight: 700; cursor: pointer;
+            margin-top: 8px; transition: background 0.2s, transform 0.1s;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+        }
+        .btn-login:hover { background: #fde047; }
+        .btn-login:active { transform: scale(0.98); }
+        .btn-login:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+        .system-bar {
+            display: flex; gap: 24px; align-items: center;
+            background: #ffffff; border: 1px solid #e2e8f0;
+            border-radius: 8px; padding: 12px 20px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+        .system-dot {
+            display: flex; align-items: center; gap: 8px;
+            font-size: 12px; color: #64748b; font-weight: 500;
+        }
+        .dot {
+            width: 7px; height: 7px; border-radius: 50%;
+            background: #22c55e; animation: pulse-dot 2s infinite;
+        }
+        @keyframes pulse-dot {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.3; }
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="brand">
+            <div class="brand-badge">Vizoroz Mail Intelligence</div>
+            <br><br>
+            <h1>Business Model <span>Email Classifier</span></h1>
+            <p>Identify NVOCC &amp; Warehouse from email content</p>
+            <br>
+        </div>
+        <div class="card">
+            <h2>Sign in to continue</h2>
+            <br>
+            <div class="field">
+                <label for="emailInput">Work Email</label>
+                <input type="text" id="emailInput" placeholder="you@company.com" autocomplete="off" />
+                <br>
+                <div class="field-error" id="emailError">Enter a valid email (e.g. user@domain.com)</div>
+            </div>
+
+            <div class="field">
+                <label for="passInput">Password</label>
+                <input type="password" id="passInput" placeholder="Enter your password" autocomplete="off" />
+                <div class="field-error" id="passError">Password is required</div>
+            </div>
+
+            <button class="btn-login" id="loginBtn" onclick="handleLogin()">&#9993; &nbsp; Login</button>
+        </div>
+
+        <div class="system-bar">
+            <div class="system-dot"><div class="dot"></div> ML Classifier</div>
+            <div class="system-dot"><div class="dot"></div> AI RAG Engine</div>
+        </div>
+    </div>
+
+    <script>
+        function isValidEmail(val) {
+            return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val.trim());
+        }
+
+        function handleLogin() {
+            const emailVal = document.getElementById('emailInput').value;
+            const passVal  = document.getElementById('passInput').value;
+            const emailEl  = document.getElementById('emailInput');
+            const passEl   = document.getElementById('passInput');
+            const emailErr = document.getElementById('emailError');
+            const passErr  = document.getElementById('passError');
+
+            let valid = true;
+            emailEl.classList.remove('invalid'); passEl.classList.remove('invalid');
+            emailErr.classList.remove('visible'); passErr.classList.remove('visible');
+
+            if (!emailVal.trim() || !isValidEmail(emailVal)) {
+                emailEl.classList.add('invalid'); emailErr.classList.add('visible'); valid = false;
+            }
+            if (!passVal.trim()) {
+                passEl.classList.add('invalid'); passErr.classList.add('visible'); valid = false;
+            }
+            if (!valid) return;
+
+            const btn = document.getElementById('loginBtn');
+            btn.disabled = true; btn.textContent = 'Starting systems...';
+            setTimeout(() => { window.location.href = '/classifier'; }, 1200);
+        }
+
+        document.addEventListener('keydown', e => { if (e.key === 'Enter') handleLogin(); });
+    </script>
+</body>
+</html>

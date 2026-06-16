@@ -1,0 +1,2034 @@
+[
+{
+    "email_text": "Could you please provide\nDG FCL rate\nfrom MYPKG port to\nLAEM CHABANG Port\nbased on\n1 x 20 GP\nfor below cargo details including loading lashing stuffing.\nClass 8\nUN2735\nPOL:  MYPKG Port\nPOD:\nLAEM CHABANG Port\nCommodity:\nOilfield equipment.\nThanks & Warm Regards,\nSashank Nair | DHL Logistics Pvt. Ltd",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Could you please provide\nFCL rate\nfrom MYPKG port to\nITSPE Port\nbased on\n1 x 20 FR OW OH\nfor below cargo details including loading lashing stuffing.\nPOL:  MYPKG Port\nPOD:\nITSPE Port\nCommodity:\nOilfield equipment\nThanks & Warm Regards,\nSashank Nair | DHL Logistics Pvt. Ltd",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Pls quote us inbound and delivery charges inclusive carrier handling and surveyor.\n2 options :\nDirect delivery via haulage and Unstuffing at your CFS and delivery as loose cargo.\nVolume: 1 x 40 OT and 1 x 40 HC.\nLalitha Lechumanan\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from pkg to Jeddah\nSPECIAL INSTRUCTION : This is a shipment to KW, first deliver to Jeddah. 1*40ft required; 14 free days in destination.\nINCO TERMS: FOB\nBDF-946,950KG IBC\n18\n120.00\n100.00\n116.00\ncms\n1010\n18180\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from pkg to Salalah, oman\nSPECIAL INSTRUCTION : REQ : 6 X 20 GP 14 DAYS FREE TIME AT POD MUST INCOTERM EXW Puncak Alam, Malaysia, Pls include all local handling from SSTC to Destination PORT\nINCO TERMS: EXW\n4 DRUMS PER PALLET\n120\n110.00\n110.00\n115.00\ncms\n897\n107640\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Subject: Quote Request: Air Freight Shipment from Frankfurt...",
+    "nvocc": 0,
+    "ff": 1,
+    "warehouse": 0,
+    "source": "processed_email_correction",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Could you please provide FCL rate from MYPKG port to\nHamad Port\nbased on\n1 X 40 GP/HC & 1 x 20 GP\nfor below cargo details including loading lashing stuffing.\nPOL:  MYPKG Port\nPOD:\nHamad Port\nThanks and Regards,\nJackson Dcosta\nDHL Global Forwarding Freight Shared Services (India) LLP",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Could you please provide FCL rate from Port Klang port to\nTomakomai Port based on\n1 x 40 FR both ends down & 1 x 40 FR OH\nfor below cargo details including loading lashing stuffing.\nPOL:\nPort Klang port\nPOD:\nTomakomai Port\nThanks & Warm Regards,\nSashank Nair | DHL Logistics Pvt. Ltd",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Could you please provide FCL rate from Port Klang to\nNhava Sheva\nPort (INNSA) based on\n1 x 20 GP\nincluding Loading lashing stuffing and handling charges.\nPOL :\nPort Klang\nPOD\n:\nNhava Sheva (INNSA)\nThanks and Regards.\nSameer Raut\nDHL Global Forwarding Freight Shared Services (India) LLP",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Could you please provide FCL rate from Labuan port to\nCartagena port, COLOMBIA based\non\n1 X 20 GP\nfor below cargo request\nPOL :\nLabuan port\nPOD:\nCartagena port , COLOMBIA\nThanks & Warm Regards,\nSashank Nair | DHL Logistics Pvt. Ltd",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from pkg to balik papan\nSPECIAL INSTRUCTION : 9 X 20 GP 14 FREE TIME DAYS AT POD MUST INCOTERM FOB PORT KLANG.\nINCO TERMS: FOB\nWOODEN PALLET\n180\n110.00\n110.00\n105.00\ncms\n779\n140220\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please assist to quote for your export handling charges at PKG for\n2x40'GP\nbased on cargo details below.\nNur Najihah HISHAM (Ms. Najihah)\nCEVA MALAYSIA (AIR & OCEAN) SDN. BHD.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Can you please assist to provide the best rates for the below?\nNLRTM to MYTPP\n10x 40DC\nTerms: DAP\nDHL MY to issue import docs\nFull container delivery to cnee/ live unload from truck Chassis\nDoor delivery:\nSenai 81400 Johor\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us for inbound at pkg\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please assist to quote your export handling charges at PKG for\n1x20'GP\nbased on cargo details below.\nNur Najihah HISHAM (Ms. Najihah)\nCEVA MALAYSIA (AIR & OCEAN) SDN. BHD.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from pkg to jakarta\nSPECIAL INSTRUCTION : SUPER URGENT, INCLUDE COLLECTION AND HANDLING FROM SALTIRE KSB Collection Address: Saltire Energy Sdn Bhd OY 0316 KSB Phase 1, Kemaman, 24007, Terengganu, Malaysia\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from pkg to muara\nVia LCL\nSPECIAL INSTRUCTION : LOOK FOR EARLIST LCL OPTION, DO INCLUDE COLLECTION FROM ELKEM PKG Collection Address: BERSATU INTEGRATED LOGISTICS SDN. BHD. 42000 PORT KLANG\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from pkg to melbourne via fcl.\nSPECIAL INSTRUCTION : DO INCLUDE COLLECTION FROM IMEXTCO PKG COLLECTION ADDRESS IMEXTCO (M) SDN BHD WAREHOUSE LOT 9 & 11, 42000 PORT KLANG\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from pkg to CAI MEP port\nSPECIAL INSTRUCTION : INCLUDE COLLECTION FROM KSB AND LOOK EARLIST VESSEL TO CAT LAI PORT, VIETNAM\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from pkg to VUNG TAU.\nSPECIAL INSTRUCTION : SUPER URGENT SHIPMENT NEED IN VUNG TAU BEFORE 25-MAR-2026\nNote: Freight forwarder is required to complete the Customs Transit Declaration at the Vietnam border.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please urgently quote DAP import rates for the below FCL shipment, including container devanning and delivery of loose cargo.\nLoaded in 1x20 FT GP, devan and deliver loose.\nDelivery Address:\nCryogenic Tank Services (M) Sdn Bhd\nLot 1310, Jalan Batu Arang\n48000 Rawang, Selangor, MALAYSIA.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from pkg to melbourne\nSPECIAL INSTRUCTION : SUPER URGENT NEED IN MEL Collection address as below : 2A, Jalan Semenyih Integrated 1, Semenyih Integrated Industrial Park, 43500 Semenyih, Selangor\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please assist to quote your export handling charges at PKG for 1x20'GP based on cargo details below.\nNur Najihah HISHAM (Ms. Najihah)\nCEVA MALAYSIA (AIR & OCEAN) SDN. BHD.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please provide a freight quotation for the below shipment.\nINCOTERM: FOB PORT KLANG\nCONTAINERS: 2 X 20 GP\n14 FREE TIME DAYS AT POD IS MUST\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Kindly provide a freight rate for the below cargo moving from\nPort Klang to Balikpapan.\nINCOTERM: FOB\n14 FREE TIME DAYS AT POD IS MUST\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from chennai to pkg\nSPECIAL INSTRUCTION : 2 X 40HC MBL required\nINCO TERMS: FOB\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from\nABU DHABI\nto pkg\nSPECIAL INSTRUCTION : 2 X 40HC MBL required\nINCO TERMS: FOB\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please share quote for below query.\nCARGO : Poultry equipment - 12MT/40'\nPOL : PORT KLANG\nPOD : CHENNAI/KATTUPALLI\nVOLUME : (1X40’HC)\n14 days free time required at POD.\nBest Regards\nChetan Biwal\nCoastal Pacific Consolidated Pvt. Ltd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from pkg to dmm via LCL\nSPECIAL INSTRUCTION : CARGO READY FOR COLLECTION\nIBC\n4\n120.00\n100.00\n116.00\ncms\n950\n3800\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from PKG to SOH.\nSPECIAL INSTRUCTION : REQ : 16 X 20 GP 14 DAYS FREE TIME AT POD MUST INCOTERM EXW Puncak Alam, Malaysia, Pls include all local handling from SSTC to PORT\n4 DRUMS PER PALLET\n320\n110.00\n110.00\n115.00\ncms\n897\n287040\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from PKG to Cairo via FCL DG cargo\nCollection address:\nMisarma Supply Sdn Bhd\nLOT 2075, JALAN DISA KROKOP, 98000 MIRI, SARAWAK, MALAYSIA\nFinal Destination:\nCairo Airport\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote pick up and stuffing for 1x40FR.\nPOL: PKG\nShipper: BJ Services (M) Sdn Bhd, Shah Alam, Selangor\nConsignee: BJ Services Company Middle East Ltd, Kakinada A.P 533005, India\n606 x 244 x 290 cm / 19000 kg\nThanks\nMuhammad Syahmi Rusli\nGEODIS",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from pkg to sohar\nSPECIAL INSTRUCTION : REQ : 6 X 20 GP 14 DAYS FREE TIME AT POD MUST INCOTERM EXW Puncak Alam, Malaysia, Pls include all local handling from SSTC to PORT\nINCO TERMS: EXW\n4 DRUMS PER PALLET\n120\n110.00\n110.00\n115.00\ncms\n897\n107640\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please assist to quote for export local handling and freight 1 x 20 GP, from PORT KLANG TO CHENNAI PORT.\nKindly provide sailing schedule as well.\nHEMMA ARULDASS\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from PKG to POM.\nSPECIAL INSTRUCTION : DO ARRANGE COLLECTION FROM AS PER ADDRESS BELOW. COLLECTION ADDRESS: IMEXTCO (M) SDN BHD WAREHOUSE LOT 9 & 11, 42000 PORT KLANG\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please assist to quote your export handling charges at PKG for 1x20'GP.\nNo cargo dimension available ; bidding stage.\nNur Najihah HISHAM (Ms. Najihah)\nCEVA MALAYSIA (AIR & OCEAN) SDN. BHD.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Could you please provide\nFCL rate\nfrom\nPort Klang\nport to\nLabuan Port\nbased on\n1 x 40 GP/HC\nfor below cargo details including loading lashing stuffing.\nPOL:  Port Klang port\nPOD:  Labuan Port\nThanks and Regards,\nJackson Dcosta\nDHL Global Forwarding Freight Shared Services (India) LLP",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from PKG to FRE.\nSPECIAL INSTRUCTION : Cargo is to be collected from 3rd party warehouse at Port Klang. Incoterm FCA Port Klang Whse. Door-to-Port, included all the DG handling.\nIBC TANKS (DG CHEMICAL)\n3\n110.00\n110.00\n100.00\ncms\n1105\n3315\nCLASS 3 - FLAMMABLE LIQUID\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please assist to quote for your export handling (stuffing) charges for below equipment at PKG.\nNur Najihah HISHAM (Ms. Najihah)\nCEVA MALAYSIA (AIR & OCEAN) SDN. BHD.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please assist to quote stuffing charges. 1x20GP\nHazwani Bahaudin\nPentagon Freight & Forwarding Services Sdn Bhd",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from PKG to FRE.\nSPECIAL INSTRUCTION : Cargo collected from 3rd party warehouse Port Klang. FCA Port Klang Whse. Door-to-Port, DG handling.\nIBC TANKS CLASS 3\n3\n110.00\n110.00\n100.00\ncms\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from PKG to VUT\nSPECIAL INSTRUCTION : Please look for option via Port Klang or Singapore to Vung Tau Port, Vietnam.\nONE UNIT BASKET\n1224.00\n109.00\n96.00\ncms\n7700\nCLASS 7 - RADIOACTIVE MATERIALS\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us rate from MYPKG to Jeddah Port KSA, via 1x40GP and 1x20GP.\nLoading trucking / container activities will be carry at EXO Malaysia\nEXO INDUSTRIES SOUTHEAST ASIA SDN BHD, KOTA KEMUNING, SHAH ALAM\nKind Regards,\nNur Ameera binti Zainal Azman (Ameera)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please assist to quote us from PKG to BPN\nSPECIAL INSTRUCTION : 1 X 20 GP 14 FREE TIME DAYS AT POD IS MUST INCOTERM FOB PORT KLANG.\nWOODEN PALLET 20 units\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us rate for inbound handling via 2x40hc.\nPlease also include storage charges for 1 week.\nFCA Czech factory - ABB s.r.o, Videnska 117, 61900, Brno, Czech Republic\nDelivery to site - Genting Highlands, Pahang\nKind Regards,\nNur Ameera binti Zainal Azman (Ameera)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us rate for inbound handling incoming shipment 1X40GP at MYPKG.\nGW for 8 axle: 14,738 kg\nKind Regards,\nNur Ameera binti Zainal Azman (Ameera)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us rate for inbound handling in MYPKG.\nPort of Loading: Chennai Port\nPort of Discharge: Port Klang\nDelivery Address: AGRO SNOW MALAYSIA SDN BHD, Petaling Jaya\nShipment Terms: CIF\nKind Regards,\nNur Ameera binti Zainal Azman (Ameera)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "From pkg to manila\nScope: Local charges + Ocean freight\nPickup: QES SDN BHD, HICOM GLENMARIE INDUSTRIAL PARK, 40150 MALAYSIA\nTerm: Door to Port\nPOL: Please consider nearest port.\nPOD: PHMNL\nEqp: 1x20GP\nThanks and Regards\nGufran Shaikh\nDHL Global Forwarding Freight Shared Services (India) LLP",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from pkg to dmm\nSPECIAL INSTRUCTION : EXW TERM, INCLUDE COLLECTION. COLLECTION ADDRESS: Wellhead Solutions Sdn Bhd, 81400 Senai, Johor, Malaysia.\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from pkg to dmm\nSPECIAL INSTRUCTION : 1 X 20 GP INCOTERM EXW Puncak Alam, Malaysia, include all local handling from SSTC to PORT\nINCO TERMS: EXW\n4 DRUMS PER PALLET\n20 units\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Well testing equipment transfer Malaysia to Indonesia.\nFrom: KSB/PKG\nTo: SGS Indonesia Yard\nMode: Sea freight\nIncoterm: DDP (Door to Door)\nAsiah Y.\nAroona Solutions Group",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "FCL rate from MYPKG port to Vung Tau Port\n1 X 20 FR OW OH\nincluding loading lashing stuffing.\nPOL: MYPKG Port\nPOD: Vung Tau Port\nThanks & Warm Regards,\nSashank Nair\nDHL Logistics Pvt. Ltd",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from pkg to LBU via FCL\nSPECIAL INSTRUCTION : SUPER URGENT, CARGO MUST REACH LABUAN ON 14-APR-2026, DO ARRANGE FOR DIRECT LOADING\nDRUM SKID FRAME\n1\n203.00\n137.00\n140.00\ncms\n5000\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "FCL DG rate from MYPKG port to MYLBU Port\n1 X 20 GP\nincluding loading lashing stuffing.\nUN Class: 3, UN Number: UN1219\nPOL: MYPKG Port\nPOD: MYLBU Port\nThanks and Regards.\nSameer Raut\nDHL Global Forwarding Freight Shared Services (India) LLP",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "FCL DG rate from MYPKG port to MYLBU Port\n1 X 40 FR\nincluding loading lashing stuffing.\nUN Class: 9, UN Number: 3091\nPOL: MYPKG Port\nPOD: MYLBU Port\nThanks and Regards.\nSameer Raut\nDHL Global Forwarding Freight Shared Services (India) LLP",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "FCL rates from MYPKG port to Yokohama Port\nincluding loading lashing stuffing.\nPOL: MYPKG\nPOD: Yokohama Port\nThanks & regards,\nAbdul Khaliq Shaikh\nDHL Global Forwarding Freight Shared Services (India) LLP.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please assist to quote your export handling charges at PKG for\n1x20'GP\nbased on cargo details below.\n29 Packages. No CIPL available.\nNur Najihah HISHAM (Ms. Najihah)\nCEVA MALAYSIA (AIR & OCEAN) SDN. BHD.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "DG FCL rate from MYPKG to LAEM CHABANG\n1x20GP. Class 8 UN2735. Including loading lashing stuffing.\nPOL: MYPKG Port\nPOD: LAEM CHABANG Port\nThanks & Warm Regards,\nSashank Nair\nDHL Logistics Pvt. Ltd",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Ocean freight from PKG to MXZLO.\nPickup: EAGLE TEST SYSTEMS C/O SCHENKER LOGISTICS, 47-A JALAN BATU MAUNG, BAYAN LEPAS, PENANG\nTerm: Door to Port\nPOL: Please consider nearest port.\nPOD: MXZLO\nEqp: 1x20GP\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from PKG to MUARA PORT.\nSPECIAL INSTRUCTION : DO INCLUDE COLLECTION FROM VENDOR FCA SELLER FACILTY\nCollection Address: PLT SCIENTIFIC SDN BHD, No.7, Jalan BP 4/8, Bandar Bukit Puchong, Puchong, Selangor\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from PKG to BPN.\nSPECIAL INSTRUCTION : 4 X 20 GP 14 FREE TIME DAYS AT POD IS MUST INCOTERM FOB PORT KLANG.\nWOODEN PALLET 80 units\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Dear\nOcean freight from PKG to PHMNL / SUBIC.\nPOL: Please consider nearest port.\nPOD: PHMNL / SUBIC\nEqp: 1x20GP\nCargo is non-stackable.\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Pls quote us from door to port.\nPOL: PORT KLANG\nPOD: Orkanger Port.\nCargo description: COND HOUSING ASSY\nNon-stackable cargo\n3 Crate @ 240 x 150 x 160 CM - 8,450 KG each\nLalitha Lechumanan\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote PKG inbound for 4x40FR incl. unstuffing.\nETD: Shekou, China - 18 April 2026\nETA: Port Klang, Malaysia - 25 April 2026\nMuhammad Syahmi Rusli\nGEODIS",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Kindly help to quote import handling charges (container unstuffing, haulage, loose delivery to consignee)\nJAKARTA to PORT KLANG\nMode: Sea freight / 1x20OT\nAhmadFitri NorAsri\nPENTAGON FREIGHT & FORWARDING SERVICES SDN BHD",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us rate from MYPKG to Shuwaikh via 2x40GP.\nNon-stackable. Include fumigation.\nTrucking to Singapore bonded warehouse\nTerms: Door to POD (prepaid in Singapore)\nKind Regards,\nNur Ameera binti Zainal Azman (Ameera)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "FCL rate from MYPKG port to CAT LAI Port\n1 X 40 GP\nincluding loading lashing stuffing.\nPOL: MYPKG Port\nPOD: CAT LAI Port\nThanks & regards,\nAbdul Khaliq Shaikh\nDHL Global Forwarding Freight Shared Services (India) LLP.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "FCL rate from MYPKG port to Vung Tau Port\n1 X 20 GP\nincluding loading lashing stuffing.\nPOL: MYPKG Port\nPOD: Vung Tau Port\nThanks and Regards.\nSameer Raut\nDHL Global Forwarding Freight Shared Services (India) LLP",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Dear\nOcean freight from PKG to PHMNL / SUBIC.\nPOD: PHMNL / SUBIC\nEqp: 1x20GP. Non-stackable.\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote rate from MYPKG to Jeddah KSA, 1x40GP + 1x20GP.\nLoading activities at EXO Malaysia, Kota Kemuning, Shah Alam.\nKind Regards,\nNur Ameera binti Zainal Azman (Ameera)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Assist to quote from PKG to BPN. FOB. 1X20GP.\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Inbound handling 2x40HC + storage 1 week.\nFCA Czech factory. Delivery Genting Highlands, Pahang.\nKind Regards,\nNur Ameera binti Zainal Azman (Ameera)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Inbound handling 1X40GP at MYPKG.\nKind Regards,\nNur Ameera binti Zainal Azman (Ameera)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Dear\nInbound handling MYPKG. POL Chennai. POD Port Klang. Delivery Petaling Jaya.\nKind Regards,\nNur Ameera binti Zainal Azman (Ameera)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote from pkg to dmm. EXW. Collection Wellhead Solutions Senai Johor.\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote from pkg to dmm. EXW. 1X20GP. Local handling SSTC to port. 4 DRUMS PER PALLET 20 units.\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Dear Blue Wave,\nPlease quote for import handling, unstuffing and delivery to KSB.\nG CEMENT CHEMICAL BIG BAG\n60\n115.00\n105.00\n85.00\ncms\n1000\n60000\nMohd Nizam Jabad\nCEVA Malaysia (Air & Ocean) Sdn Bhd, Labuan",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Cost for 1 x 20Ft GP devanning, unstuffing and local delivery at Rawang.\nQ16 Compressed gas quad. Qty 10. Total cargo weight 18000KG\nDelivery: Cryogenic Tank Services (M) Sdn Bhd, Rawang, Selangor\nRina Ulan\nKLN Logistics (M) Sdn Bhd",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please assist to quote your export handling charges at PKG for\n1x20'GP\nbased on cargo details below.\nWe need to submit quotation by today (30-Mar-2026).\nNur Najihah HISHAM (Ms. Najihah)\nCEVA MALAYSIA (AIR & OCEAN) SDN. BHD.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please assist to advise on your export handling (stuffing) charges at PKG for 1x40'GP based on cargo details below.\nNur Najihah HISHAM (Ms. Najihah)\nCEVA MALAYSIA (AIR & OCEAN) SDN. BHD.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Hi,\nPlease quote stuffing charges. 1x20GP\nHazwani Bahaudin\nPentagon Freight & Forwarding Services Sdn Bhd",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "inbox_labeled",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from PKG to Balikpapan\nSPECIAL INSTRUCTION : 4 X 20GP 14 FREE TIME DAYS AT POD MUST INCOTERM FOB PORT KLANG.\nINCO TERMS: FOB\nWOODEN PALLET\n80\n110.00\n110.00\n105.00\ncms\n779\n62320\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "nvocc_extra",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to chennai\nSPECIAL INSTRUCTION : 1 X 40HC 14 FREE TIME DAYS AT POD IS MUST INCOTERM FOB PORT KLANG.\nINCO TERMS: FOB\nWOODEN PALLET\n100\n110.00\n110.00\n105.00\ncms\n779\n77900\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "nvocc_extra",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Dear Blue Wave,\nPls. arrange to confirm us the charges for the below query:\nPOL: PORT KELANG\nFPOD: NHAVA SHEVA\nCONTAINER TYPE: 40’ HQ\nWEIGHT: 26 MT\nCOMMODITY: YARN\nVOLUME: 10X40’ HQ\n14 detention free days required at destination.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "nvocc_extra",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from PKG to BPN via sea\nSPECIAL INSTRUCTION : 4 X 20 GP 14 FREE TIME DAYS AT POD IS MUST INCOTERM FOB PORT KLANG.\nINCO TERMS: FOB\nWOODEN PALLET\n80\n110.00\n110.00\n105.00\ncms\n779\n62320\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "nvocc_extra",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from PKG to BPN via sea\nSPECIAL INSTRUCTION : 4 X 20 GP 14 FREE TIME DAYS AT POD IS MUST INCOTERM FOB PORT KLANG.\nWOODEN PALLET\n80\n110.00\n110.00\n105.00\ncms\n1.271\n101.68\nKilogram\n779\n62320\nThanks\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "nvocc_extra",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from LPK to DMM.\nSPECIAL INSTRUCTION : CARGO READY FOR COLLECTION 1x20GP include 14 days FT at POD\nIBC\n4\n120.00\n100.00\n116.00\ncms\n1.392\n5.568\nKilogram\n950\n3800\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "nvocc_extra",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please share quote. POL: PORT KLANG. POD: CHENNAI/KATTUPALLI. VOLUME: 1X40HC.\n14 days free time required at POD. 10 days free time required at POL.\nFOB.\nBest Regards\nChetan Biwal\nCoastal Pacific Consolidated Pvt. Ltd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "nvocc_extra",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from\nABU DHABI\nto pkg\nSPECIAL INSTRUCTION : 2 X 40HC MBL required\nINCO TERMS: FOB\nEZ MUL NTE - 165 KG / 200 LTR DRMS\n40\n110.00\n110.00\n110.00\ncms\n1.331\n53.24\nKilogram\n1010\n40400\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "nvocc_extra",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from PKG to VUT\nSPECIAL INSTRUCTION : Please look for option via Port Klang or Singapore to Vung Tau Port.\nONE UNIT BASKET\n1224.00\n109.00\n96.00\ncms\n7700\nCLASS 7 - RADIOACTIVE MATERIALS\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "nvocc_extra",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from pkg to balikpapan\nSPECIAL INSTRUCTION : 1 X 40HC 14 FREE TIME DAYS AT POD IS MUST INCOTERM FOB PORT KLANG.\nINCO TERMS: FOB\nWOODEN PALLET\n100\n110.00\n110.00\n105.00\ncms\n1.271\n127.1\nKilogram\n779\n77900\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "nvocc_extra",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from PKG to manila\nSPECIAL INSTRUCTION : FOB PORT KLANG. 14 FREE TIME DAYS AT POD.\nWOODEN PALLET\n40\n110.00\n110.00\n105.00\ncms\nKilogram\n779\nKind Regards,\nKai Ling Moo\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "nvocc_extra",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from pkg to VUNG TAU.\nSPECIAL INSTRUCTION : SUPER URGENT SHIPMENT NEED IN VUNG TAU BEFORE 25-MAR-2026\nWOODEN PALLET\n19\n120.00\n120.00\n122.00\ncms\n760\n14440\nCLASS 9 - MISCELLANEOUS DANGEROUS GOODS\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "nvocc_extra",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Could you please provide FCL rate from Labuan port to\nCartagena port, COLOMBIA based on\n1 X 20 GP.\nDeadline: 11.03.2026\nPOL: Labuan port\nPOD: Cartagena port, COLOMBIA\nCommodity: Oilfield equipment.\nThanks & Warm Regards,\nSashank Nair | DHL Logistics Pvt. Ltd",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "nvocc_extra",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from chennai to pkg\nSPECIAL INSTRUCTION : 2 X 40HC MBL required\nINCO TERMS: FOB\nEZ MUL NTE - 165 KG / 200 LTR DRMS\n40\n110.00\n110.00\n110.00\ncms\n1.331\n53.24\nKilogram\n1010\n40400\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "nvocc_extra",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Please quote us from pkg to Jeddah\nSPECIAL INSTRUCTION : This is a shipment to KW, first deliver to Jeddah. 1*40ft required; 14 free days in destination.\nINCO TERMS: FOB\nBDF-946 IBC\n18\n120.00\n100.00\n116.00\ncms\n1010\n18180\nKind Regards,\nMazuin Ismail (Awin)\nDHL Global Forwarding (Malaysia) Sdn. Bhd.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "nvocc_extra",
+    "labeled_at": "2026-04-26T13:52:52.046011+00:00"
+},
+{
+    "email_text": "Dear Team,\nCould you please provide FCL rate from Port Klang to\nNhava Sheva\nPort (INNSA) based on\n1 x 20 GP\nincluding Loading lashing stuffing and handling charges.\nDeadline:\n12.03.2026 11:00 AM\nRDD (Required ETA)\n: Earliest\nEquipment type:\n1 x 20 GP\nPOL :\nPort Klang\nPOD\n:\nNhava Sheva (INNSA)\nCommodity:\nOilfield equipment.\nCargo Details:\nPackage No\nQuantity\nL (cm)\nW (cm)\nH (cm)\nWeight (kgs)\nCBM\n1\n1\n170\n150\n160\n7500\n4.08\nThanks and Regards.\nSameer Raut\nSpecialist Bids & Pricing, Industrial Projects, GSC Mumbai\nDHL Global Forwarding Freight Shared Services (India) LLP\n5th Floor, Tower C, Embassy 247 Park,\nLBS Road, Vikhroli (W), Mumbai \u2013 400083, India\nTel: +91 22 61152500 (Board)\nTel: +91 22 61152748 (Direct)",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "WAREHOUSE"
+    ],
+    "subject": "C26030279 BH FCL MY to IN TR#754819, Auction A62988",
+    "labeled_at": "2026-04-28T06:56:31.945082+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg \u00a0to \u00a0CAI MEP port\nSPECIAL INSTRUCTION : SUPER URGENT SHIPMENT NEED IN\nCai Mep Port\nBEFORE 25-MAR-2026, INCLUDE COLLECTION FROM KSB AND LOOK EARLIST VESSEL TO CAT LAI PORT, VIETNAM\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\n16 WOODEN PALLET\n16\n120.00\n120.00\n122.00\ncms\n1.757\n28.112\nKilogram\n760\n12160\nCLASS 9 - MISCELLANEOUS DANGEROUS GOODS\n3 WOODEN PALLET\n3\n120.00\n120.00\n122.00\ncms\n1.757\n5.271\nKilogram\n760\n2280\nTotal\n19\n33.383\n14440.000\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +603\u00a0 8020\n2912\nFax\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +606\u00a0 8023 5016\nMobile\u00a0\u00a0\u00a0\u00a0 +\n019 3449940\nMazuin.Ismail@dhl.com\nwww.dhl.com\nNote: Storage charges will be effective as below\n.\nCount from ATA date, based on chargeable weight , excluded Saturday, Sunday\n& Public Holiday\n.\n1\nst\n& 2\nnd\nday\n\u2013\nFOC\n3\nrd\nday\n\u2013\nMYR\n0.90/kg\nor min 30.00\nAfter 4\nth\nday\n\u2013\nMYR\n1.00/kg\nor min 30.00\nDHL Global Forwarding \u2013 Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n\u2013\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n\u2019\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weighed prior to loading onto a vessel.\nVerification of the weight is the responsibility of the shipper\n. This will come into effect on July 1st, 2026. Due to this new regulation additional charges may apply and will subsequently be added to our pricing offer.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "WAREHOUSE"
+    ],
+    "subject": "FW: Spot Bid Request(RSSB-33216) TIME SENSITIVE RESPONSE REQUIRED Customer: HALLIBURTON GLOBAL FREIGHT",
+    "labeled_at": "2026-04-28T06:57:23.578487+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to melbourne\nSPECIAL INSTRUCTION : SUPER URGENT NEED IN MEL, PLS LOOK EARLIST VESSEL ETA Collection address as below : 2A, Jalan Semenyih Integrated 1, Semenyih Integrated Industrial Park, 43500 Semenyih, Selangor PIC: Rony H/P: +60 11-1947 4686 Our warehouse operating hours (Fasting Month): Mon\u2013Sat: 8:00 a.m. to 4:00 p.m.\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nIBC TANKS\n10\n110.00\n110.00\n100.00\ncms\n1.21\n12.1\nKilogram\n1170\n11700\nTotal\n10\n12.1\n11700.000\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +603\u00a0 8020\n2912\nFax\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +606\u00a0 8023 5016\nMobile\u00a0\u00a0\u00a0\u00a0 +\n019 3449940\nMazuin.Ismail@dhl.com\nwww.dhl.com\nNote: Storage charges will be effective as below\n.\nCount from ATA date, based on chargeable weight , excluded Saturday, Sunday\n& Public Holiday\n.\n1\nst\n& 2\nnd\nday\n\u2013\nFOC\n3\nrd\nday\n\u2013\nMYR\n0.90/kg\nor min 30.00\nAfter 4\nth\nday\n\u2013\nMYR\n1.00/kg\nor min 30.00\nDHL Global Forwarding \u2013 Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n\u2013\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n\u2019\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weighed prior to loading onto a vessel.\nVerification of the weight is the responsibility of the shipper\n. This will come into effect on July 1st, 2026. Due to this new regulation additional charges may apply and will subsequently be added to our pricing offer.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "FREIGHT FORWARDING"
+    ],
+    "subject": "FW: Spot Bid Request(RSSB-33289) TIME SENSITIVE RESPONSE REQUIRED Customer: HALLIBURTON GLOBAL FREIGHT",
+    "labeled_at": "2026-04-28T06:58:04.355215+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to dmm via LCL\nSPECIAL INSTRUCTION : CARGO READY FOR COLLECTION\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nIBC\n4\n120.00\n100.00\n116.00\ncms\n1.392\n5.568\nKilogram\n950\n3800\nTotal\n4\n5.568\n3800.000\nThanks.\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +603\u00a0 8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding \u2013 Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any attachment from\nyour system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this\nemail and its attachments is strictly prohibited.\nGO\nGREEN\n\u2013\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "WAREHOUSE"
+    ],
+    "subject": "FW: Spot Bid Request(RSSB-33527) TIME SENSITIVE RESPONSE REQUIRED Customer: HALLIBURTON GLOBAL FREIGHT",
+    "labeled_at": "2026-04-28T06:58:54.553979+00:00"
+},
+{
+    "email_text": "Dear Team,\nCould you please provide\nFCL rate\nfrom\nPort Klang\nport to\nLabuan Port\nbased on\n1 x 40 GP/HC\nfor below cargo details\u00a0including loading lashing stuffing.\nDeadline:\n28/03/2025\nEquipment type:\n1 x 40 GP/HC\nKindly provide the Following details :-\nCarrier -\nTransit Routing -\nTransit days \u2013\nETD-\nETA-\nCut-off date \u2013\nAlso please provide 2 Future Schedule \u2013\nPOL: \u00a0Port Klang port\nPOD: \u00a0Labuan Port\nCommodity:\nOilfield equipment\nCargo Details:-\nPackage No\nQuantity\nL (cm)\nW (cm)\nH (cm)\nWeight (kgs)\nCBM\n1\n1\n631\n40\n39\n800\n0.98\n2\n1\n455\n92\n107\n1500\n4.48\nTotal\n2\n2300\n5.46\nThanks and Regards,\nJackson Dcosta\nSpecialist, Bids & Pricing, Industrial Projects, GSC Mumbai\nDHL Global Forwarding Freight Shared Services (India) LLP\n5th Floor, Tower A, Embassy 247 Park,\nLBS Road, Vikhroli (W), Mumbai \u2013 400083, India\nTel: + 91 22 61152600 (Board)\nTel: +91 22 61152805 (Direct)\nThe Freight Forwarding experts since 1815! Become one of us:\nDHL Careers",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "WAREHOUSE"
+    ],
+    "subject": "C26030810 BH BB MY TO MY TR#766794, Auction A64216",
+    "labeled_at": "2026-04-28T06:59:21.278617+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from PKG to\nFRE\n.\nSPECIAL INSTRUCTION : Do refer to the attached CIPL, SDS and SLI. Cargo is to be collected from 3rd party warehouse at Port Klang. Incoterm Halliburton has with supplier is FCA Port Klang Whse. Ensure quote all cost in - Door-to-Port, included all the DG handling.\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nIBC TANKS (DG CHEMICAL)\n3\n110.00\n110.00\n100.00\ncms\n1.21\n3.63\nKilogram\n1105\n3315\nCLASS 3 - FLAMMABLE LIQUID\nTotal\n3\n3.63\n3315.000\nThanks\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +603\u00a0 8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding \u2013 Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any attachment from\nyour system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this\nemail and its attachments is strictly prohibited.\nGO\nGREEN\n\u2013\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "WAREHOUSE"
+    ],
+    "subject": "FW: Spot Bid Request(RSSB-34194) TIME SENSITIVE RESPONSE REQUIRED Customer: HALLIBURTON GLOBAL FREIGHT",
+    "labeled_at": "2026-04-28T06:59:59.772932+00:00"
+},
+{
+    "email_text": "Dear All\nPlease quote us rate from MYPKG to Jakarta Port via 1x20 GP.\nPlease include fumigation charges as well.\nMOT: 1X20\u2019GP \u2013 FCL\nPOD: JAKARTA, IDJKT\nCARGO DETAILS:\nOILWELL CHEMICALS (NON-DG), MSDS ATTACHED\n20 PALLETS / 16,420 KG\n112 X 112 X 102 CM, 821 KG EACH\nPick up Number\nLot #\nPick Up Date\nPick Up Address\nPoint Of Contact (for Pick Up)\nTotal Quantity\nProduct\n-\nTBA\n6\nTH\nApr 2026 onwards\nSumisaujana TCM Chemicals Sdn Bhd\nNo. 1, Jalan TIAJ 2/6, Taman Industri Alam Jaya, 42300, Puncak Alam, Selangor, Malaysia.\nHaikal +60 17-374 8659\nZul +60182363880\n80 DRUM\nM0004656 - NOVATEC S - DM,190 KG\nKind Regards,\nNur Ameera binti Zainal Azman (Ameera)\nIndustrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nMobile\u00a0\u00a0\u00a0\u00a0 +012 386 0074\nNurAmeera.ZainalAzman@dhl.com\nwww.dhl.com\n*********************************************\nGroup ID email :\nedgmy-dgf-industrial-project@dhl.com\nPricing team email ID :\nedgmy-dgf-kul-oe-quote@dhl.com\nDHL Global Forwarding \u2013 Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n\u2013\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n\u2019\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weighed prior to loading onto a vessel.\nVerification of the weight is the responsibility of the shipper\n. This will come into effect on July 1st, 2026. Due to this new regulation additional charges may apply and will subsequently be added to our pricing offer.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "WAREHOUSE"
+    ],
+    "subject": "1X20'GP EX MYPKG TO IDJKT : Indonesia | MRP 4584937798 | SO 21790341 | PO 4584941670 | NOVATEC S - DM,190 KG | 80",
+    "labeled_at": "2026-04-28T07:00:53.575454+00:00"
+},
+{
+    "email_text": "Please provide your sea freight FCL rates for below,\nGovernment will only provide the MSDS if tender is awarded.\nProper Shipping Name           : Vehicle, lithium-ion battery powered\nUN Number                                 : UN3556\nDG Class                                      : 9\nPacking Group                           : Not specified\nBattery State of Charge         : ≤ 20%\nVolume                                          : 1 x 20’GP\nPOL                                                 : MYPKG\nPOD                                                : ZADUR\nTo advise,\n*Free detention and demurrage at destination\n*DND tariff up to one month at POD\nNo.\nItem\nCondition\nQty\nLength (CM)\nWidth (CM)\nHeight (CM)\nCBM (M3)\nWeight (KG)\n1\nBMW i7 xDrive 60M Sport (EV) - VNN 1494\nUsed\n1 Unit\n539.1\n220\n155\n18.37 M3\n2715 KG\nImportant Notes\n*Malaysian Ministry of Foreign Affairs diplomatic vehicle\nThanks.\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any attachment from\nyour system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this\nemail and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Dear\nPlease provide your best quotation for the following project cargo shipment (\nany chance to Call alternative port ?, as Abu Dhabi not available\n)\n1. SCOPE OF WORK\nIncoterm: EXW (Incoterms 2025)\nPort of Loading: Port Klang, Malaysia\nPort of Discharge: CFR Abu Dhabi Port (Khalifa or Zayed Port)\nFinal Destination: DAP Abu Dhabi (specific address to follow)\n2. CARGO DETAILS\nDescription: Motive Water Air Cooler (Exceptional Piece)\nReady for Collection: March 19th, 2026\nTotal Weight: Approx. 29,149 kg\nOverall Dimensions (LxWxH): 11,623 x 4,805 x 3,370 mm\nDocumentation: Please find attached Packing List and Technical Drawing.\n3. MANDATORY TECHNICAL REQUIREMENTS\nOcean Freight: The unit MUST be stowed UNDER DECK to prevent exposure to salt and corrosion, as per manufacturer’s warranty requirements.\nVessel Type: For Break Bulk solutions, a geared vessel (with heavy-lift cranes) is required.\nTransport: Due to the width of 4.8m, a 3-meter wide low-bed trailer is mandatory for road transport.\nNote: The unit is under nitrogen purge (50 kPa); constant monitoring of the pressure gauge is required during all transit phases.\n4. QUOTATION REQUIREMENTS\nPlease include in your offer:\nSea Freight and local charges (Lashing, Securing, THC).\nInland haulage from Rasa to Port Klang (including escort/permits for over-width cargo).\nEstimated Transit Time and first available vessel name.\nThanks.\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any a",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease assist to quote us sea freight FCL rates for below\nThe MSDS will only provide if tender is awarded.\nProper Shipping Name           : Vehicle, lithium-ion battery powered\nUN Number                                 : UN3556\nDG Class                                      : 9\nPacking Group                           : Not specified\nBattery State of Charge         : ≤ 20%\nVolume                                          : 1 x 20’GP\nPOL                                                 : MYPKG\nPOD                                                : IDJKT\nNo.\nItem\nCondition\nQty\nLength (CM)\nWidth (CM)\nHeight (CM)\nCBM (M3)\nWeight (KG)\n1\nBMW i7 xDrive 60M Sport (EV) - VNN 1556\nUsed\n1 Unit\n540\n220\n155\n18.41 M3\n2715 KG\nThanks.\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any attachment from\nyour system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this\nemail and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease assist to quote us sea freight FCL rates for below\nProper Shipping Name           : Vehicle, lithium-ion battery powered\nUN Number                                 : UN3556\nDG Class                                      : 9\nPacking Group                            : Not specified\nBattery State of Charge          : ≤ 20%\nVolume                                          : 1 x 20’GP\nPOL                                                 : MYPKG\nPOD                                                : BNMUA\nNo.\nItem\nCondition\nQty\nLength (CM)\nWidth (CM)\nHeight (CM)\nCBM (M3)\nWeight (KG)\n1\nBMW i7 xDrive 60M Sport (EV) - VNN 1074\nUsed\n1 Unit\n540\n220\n155\n18.41 M3\n2715 KG\nThanks.\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any attachment from\nyour system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this\nemail and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to muara\nSPECIAL INSTRUCTION : DO ARRANGE COLLECTION FROM VENDOR WAREHOUSE AS PER ADDRESS BELOW AND SEND INTO EARLIEST VESSEL TO LABUAN.\nDO REFER CIPL FROM VENDOR AS PER ATTACHED.\nCollection Address:\nCore Laboratories Malaysia Sdn Bhd H57,\nPort Klang Free Zone, Jln FZ10-P3,\nPulau Indah, 42920 Selangor, Malaysia\nAttn: Samsuri Johari Mobile: +60122802535\nEmail: Samsuri.MohdJohari@corelab.com\nINCO TERMS: FCA\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nONE WOODEN BOX\n1\n339.00\n65.00\n50.00\ncms\n1.102\n1.102\nKilogram\n1165\n1165\nWOODEN BOX\n3\n644.00\n65.00\n50.00\ncms\n2.093\n6.279\nKilogram\n2205\n6615\nTotal\n4\n7.381\n7780.000",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease assist to quote us from pkfz to CAT LAI, HO CHI MINH SEAPORT\nSPECIAL INSTRUCTION : DO INCLUDE DG INSPECTION, FOR VESSEL ACCEPTANCE TO HO CHI MINH PORT\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nUN FIBREBOARD\n1\n23.00\n23.00\n41.00\ncms\n0.022\n0.022\nKilogram\n2.1\n2.1\nCLASS 2 - GASSES\nTotal\n1\n0.022\n2.100\nThanks.\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any attachment from\nyour system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this\nemail and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "HI sales\nPlease quote us trucking from PKG to HO CHI MINH PORT (CAT LAI).\nSPECIAL INSTRUCTION : DO INCLUDE COLLECTION FROM KSB WH39 & SGS (DG) INSPECTION FOR EARLIST VESSEL ACCEPTANCE TO CAT LAI, HO CHI MINH PORT\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nWOODEN BOX (UN 3090) OVERPACK USED\n1\n117.00\n94.00\n81.00\ncms\n0.891\n0.891\nKilogram\n113\n113\nCLASS 9 - MISCELLANEOUS DANGEROUS GOODS\nTotal\n1\n0.891\n113.000\nThanks.\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any attachment from\nyour system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this\nemail and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from PKG to MUARA port.\nSPECIAL INSTRUCTION : DO INCLUDE COLLECTION FROM IMEXTCO PORT KLANG, LOOK FOR EARLIST VESSEL ETA MUARA WE NEED ETA MUARA EARLY MAY, PLS LOOK FOR IT IMEXTCO (M) SDN BHD – WAREHOUSE LOT 9 & 11, LORONG SULTAN HISHAMUDDIN 1, KAWASAN PERINDUSTRIAN SELAT KLANG UTARA, 42000 PORT KLANG, SELANGOR, MALAYSIA. ATTN : MR. CHAN (+ 6 012 502 9127) / MR. BRYAN (+ 6 012 216 1299)\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nWOODEN PALLET CIPL 16893-A PO 4518644549\n2\n110.00\n110.00\n120.00\ncms\n1.452\n2.904\nKilogram\n760\n1520\nWOODEN PALLET CIPL 16916-A PO 4901432831\n2\n110.00\n110.00\n40.00\ncms\n0.484\n0.968\nKilogram\n775\n1550\nTotal\n4\n3.872\n3070.000\nThanks.\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any attachment from\nyour system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this\nemail and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Dear Team,\nCould you please provide FCL rate from MYPKG port to\nVung Tau Port\nbased on\n1 X 20 GP\nfor below cargo details including loading lashing stuffing.\nDeadline:\n21.04.2026 14:00 UTC +08:00\nEquipment type:\n1 X 20 GP\nKindly provide the Following details :-\nCarrier -\nTransit Routing -\nTransit days –\nETD-\nETA-\nCut-off date –\nAlso please provide 2 Future Schedule –\nReq. pick-up (ETD):\n26.04.2026 14:00 UTC +01:00\nReq. delivery (ETA):\n01.05.2026 00:00 UTC +08:00\nPOL:\nMYPKG Port\nPOD:\nVung Tau Port\nCommodity:\nOilfield equipment.\nCargo Details:-\nPackage No\nQuantity\nL (cm)\nW (cm)\nH (cm)\nWeight (kgs)\nCBM\n1\n7\n110\n110\n101\n760\n1.22\nTotal\n7\n5320\n8.55\nThanks and Regards.\nSameer Raut\nSpecialist Bids & Pricing, Industrial Projects, GSC Mumbai\nDHL Global Forwarding Freight Shared Services (India) LLP\n5th Floor, Tower C, Embassy 247 Park,\nLBS Road, Vikhroli (W), Mumbai – 400083, India\nTel: +91 22 61152500 (Board)\nTel: +91 22 61152748 (Direct)",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease assist to quote us from PKG to BPN\nSPECIAL INSTRUCTION : 1 X 20 GP 14 FREE TIME DAYS AT POD IS MUST INCOTERM FOB PORT KLANG.\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nWOODEN PALLET\n20\n110.00\n110.00\n105.00\ncms\n1.271\n25.42\nKilogram\n779\n15580\nTotal\n20\n25.42\n15580.000\nThanks.\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any attachment from\nyour system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this\nemail and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from PKG to BPN.\nSPECIAL INSTRUCTION : 4 X 20 GP 14 FREE TIME DAYS AT POD IS MUST INCOTERM FOB PORT KLANG.\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nWOODEN PALLET\n80\n110.00\n110.00\n105.00\ncms\n1.271\n101.68\nKilogram\n779\n62320\nTotal\n80\n101.68\n62320.000\nThanks.\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any attachment from\nyour system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this\nemail and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from PKG to MUARA PORT.\nSPECIAL INSTRUCTION : DO INCLUDE COLLECTION FROM VENDOR FCA SELLER FACILTY, LOOK FOR EARLIST VESSEL ETA MUARA PORT Collection Address: PLT SCIENTIFIC SDN BHD C6860261080 No.7, Jalan BP 4/8, Bandar Bukit Puchong, 47120 Puchong, Selangor Darul Ehsan Tel: 03-8066 9999 Fax: 03-8066 4099 Email:\ngeneral@pltscientific.com\nWebsite:\nwww.pltscientific.com\n|\nwww.pltscientificinstruments.com\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nWOODEN PALLET\n1\n120.00\n80.00\n117.00\ncms\n1.123\n1.123\nKilogram\n187.2\n187.2\nTotal\n1\n1.123\n187.200\nThanks.\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any attachment from\nyour system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this\nemail and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Dear\nGood day!\nPlease quote us Ocean freight(with TT & schedule) from PKG to PHMNL.\nPickup   : EAGLE TEST SYSTEMS C/O SCHENKER LOGISTICS (MALAYSIA) SDN. BHD, 47-A JALAN BATU MAUNG, DIS3PLEX FREE COMMERCIAL ZONE, PENANG,MY 11960, MALAYSIA\nTerm      : Door to Port\nPOL        : Please consider nearest port.\nPOD       : PHMNL\nEqp        : 1x20GP\nCargo is non-stackable.\nStop #\nDescription\nL x W x H (UOM)\nHandling Units\nWeight\nUOM\n1\nCALIBRATION UNIT - ETS364_ASM3767\n129.00 x 129.00 x 183.00 (CM)\n1 CRATE\n138\nKG\n1\nCALIBRATION UNIT - ETS364_ASM3767\n96.00 x 83.00 x 170.00 (CM)\n1 CRATE\n185\nKG\nThanks.\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any attachment from\nyour system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this\nemail and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nGood day!\nPlease quote us Ocean freight(with TT & schedule) from PKG to MXZLO.\nPickup   : EAGLE TEST SYSTEMS C/O SCHENKER LOGISTICS (MALAYSIA) SDN. BHD, 47-A JALAN BATU MAUNG, DIS3PLEX FREE COMMERCIAL ZONE, BAYAN LEPAS,PULAU, PINANG 11960 MALAYSIA\nTerm      : Door to Port\nPOL        : Please consider nearest port.\nPOD       : MXZLO\nEqp        : 1x20GP\nCargo is non-stackable.\nStop #\nDescription\nL x W x H (UOM)\nHandling Units\nWeight\nUOM\n1\nASM5806G KIT, FIRST SITE 800 W/DIGITAL\n122.00 x 102.00 x 90.00 (CM)\n1 SKID\n54\nKG\nThanks.\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any attachment from\nyour system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this\nemail and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi Team,\nCould you please provide FCL rates from MYPKG port to\nYokohama Port\nfor below cargo details including loading lashing stuffing.\nDeadline: 20.04.2026 15:00 UTC +08:00\nEquipment type:\n1 X 20 GP\nKindly provide the Following details :-\nCarrier -\nTransit Routing -\nTransit days –\nETD-\nETA-\nCut-off date –\nAlso please provide 2 Future Schedule –\nReq. pick-up (ETD): 27.04.2026 00:00 UTC +08:00\nReq. delivery (ETA): 07.05.2026 00:00 UTC +08:00\nPOL:  MYPKG\nPOD:\nYokohama Port\nCommodity:\nOilfield equipment.\nCargo Details:-\nPackage No\nQuantity\nL (cm)\nW (cm)\nH (cm)\nWeight (kgs)\nCBM\n1\n1\n190\n150\n160\n5500\n4.56\nTotal\n1\n5500.00\n4.56\nThanks & regards,\nAbdul Khaliq Shaikh\nSpecialist – Industrial Projects\n, GSC Mumbai\nDHL Global Forwarding Freight Shared Services (India) LLP.\n5th Floor, Tower A, Embassy 247 Park,\nLBS Road, Vikhroli (W),\nMumbai - 400083\nIndia\nTel:  +91 22 61152700 (Board)\nLinkedIn:\nAbdul Khaliq Shaikh\nThe Freight Forwarding experts since 1815! Become one of us:\nDHL Careers",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to LBU via FCL\nTrucking under DGY MY scope.\nSPECIAL INSTRUCTION : SUPER URGENT, CARGO MUST REACH LABUAN ON 14-APR-2026, DO ARRANGE FOR DIRECT LOADING IF NEED, URGENT HOT SHOT TRUCK FROM KSB - SG, MAKE SURE RATE MUST go RATE (PREMIUM RATE) ON VESSEL Pacific Star 2604/E *** GENERAL CARGO ONLY, VALID LIFTING CERTIFICATE WILL PROVIDE LATER, HAVE FORK CHANNEL REFER PHOTO - SUPER URGENT ***\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nDRUM SKID FRAME\n1\n203.00\n137.00\n140.00\ncms\n3.894\n3.894\nKilogram\n5000\n5000\nTotal\n1\n3.894\n5000.000\nThanks.\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any attachment from\nyour system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this\nemail and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to dmm\nSPECIAL INSTRUCTION : REQ\n: 1 X 20GP 14 DAYS FREE TIME AT POD MUST\nINCOTERM EXW Puncak Alam, Malaysia, Pls include all local handling from SSTC to PORT ** PERFER SHORTER LEADTIME ***\nINCO TERMS: EXW\nINCOTERM NAMED PLACE : Puncak Alam, Malaysia\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\n4 DRUMS PER PALLET\n20\n110.00\n110.00\n115.00\ncms\n1.392\n27.84\nKilogram\n897\n17940\nTotal\n20\n27.84\n17940.000",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Dear Team,\nGood day!\nPlease find below detail and advise the rates. From pkg to manila\nScope     :\nLocal charges\nOcean freight(with TT & schedule)\nPickup   : QES SDN BHD, NO. 2, JALAN JURURANCANG U1/21, HICOM GLENMARIE INDUSTRIAL PAR,SE 40150 MALAYSIA\nTerm      : Door to Port\nPOL        : Please consider nearest port.\nPOD       : PHMNL\nEqp        : 1x20GP\nCargo is non-stackable.\nPlease advise the rates considering the dimensions in\nCMS / Kgs\nand not in\nInches / LB\n.\nStop #\nDescription\nL x W x H (UOM)\nHandling Units\nWeight\nUOM\n1\nZVPO_X-RAY_NIKON XTV 160\n222.00 x 200.00 x 167.00 (IN)\n1\n2400\nLB\nDeadline  1300 IST.\nThanks and Regards\nGufran Shaikh\nSpecialist Bids & Pricing\nIndustrial Projects, GSC Mumbai\nDHL Global Forwarding Freight Shared Services (India) LLP\n5th Floor, Tower A, Embassy 247 Park,\nLBS Road, Vikhroli (W), Mumbai – 400083, India\nTel:\n+91 22 61152500\n(Board)\nMob: +91 9757063171\nThe Freight Forwarding experts since 1815! Become one of us:\nDHL Careers",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales,\nCan you please share the RFWD charges from PKG to Labuan port.\nWill be moving form Jebel ali on 1x20’ OCO, how ever need to offload and deliver it on another liner container.\nPlease urgently advise sea freight quote to ship 2 x Pumps as per attached pics in 1 x 20’ FCL from Door Brandt Jebel Ali South till Labuan Port via Singapore or Malaysia.\nKindly submit your quote transit time, routing, validity and sailing schedule.\n2 x Pumps @ L276 x W59 x H72 cms. | 552 kgs each\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020\n2912\nFax         +606  8023 5016\nMobile     +\n019 3449940\nMazuin.Ismail@dhl.com\nwww.dhl.com\nNote: Storage charges will be effective as below\n.\nCount from ATA date, based on chargeable weight , excluded Saturday, Sunday\n& Public Holiday\n.\n1\nst\n& 2\nnd\nday\n–\nFOC\n3\nrd\nday\n–\nMYR\n0.90/kg\nor min 30.00\nAfter 4\nth\nday\n–\nMYR\n1.00/kg\nor min 30.00\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n’\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weighed prior to loading onto a vessel.\nVerification of the weight is the responsibility of the shipper\n. This will come into",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to manila\nScope     :\nOcean freight(with TT & schedule)\nPickup   : SRM INTEGRATION (M) SDN BHD, PLOT 16, BAYAN LEPAS TECHNOPLEX, PENANG,MY 11900 MALAYSIA\nTerm      : Door to Port\nPOL        : Please consider nearest port.\nPOD       : PHMNL\nEqp        : 1x20GP\nCargo is non-stackable.\nStop #\nDescription\nL x W x H (UOM)\nHandling Units\nWeight\nUOM\n1\nSMART TESTING HANDLER Z328GT W/ ARC\n110.00 x 95.00 x 170.00 (CM)\n1 CRATE\n250\nKG\n1\nARS-H660(3.0)\n180.00 x 180.00 x 220.00 (CM)\n1 CRATE\n500\nKG\n1\nSMART TESTING HANDLER Z328GT W/ARC (MAC SN: Z328GT-004I)\n250.00 x 210.00 x 210.00 (CM)\n1 CRATE\n1350\nKG\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020\n2912\nFax         +606  8023 5016\nMobile     +\n019 3449940\nMazuin.Ismail@dhl.com\nwww.dhl.com\nNote: Storage charges will be effective as below\n.\nCount from ATA date, based on chargeable weight , excluded Saturday, Sunday\n& Public Holiday\n.\n1\nst\n& 2\nnd\nday\n–\nFOC\n3\nrd\nday\n–\nMYR\n0.90/kg\nor min 30.00\nAfter 4\nth\nday\n–\nMYR\n1.00/kg\nor min 30.00\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n’\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all con",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from port of loading is Port Klang, Selangor, and the port of delivery is Freetown Sierra Leone.\nWe are planning to export water tanks with the following dimensions:\n9.76 m × 8.54 m × 4.88 m (H)\n10.98 m × 9.76 m × 4.88 m (H)\nAdditionally, the height of the steel tower is 15 m.\nFor this shipment, we require the following containers:\n3 × 40' Open Top (in gauge) containers\n3 × 40' standard containers\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020\n2912\nFax         +606  8023 5016\nMobile     +\n019 3449940\nMazuin.Ismail@dhl.com\nwww.dhl.com\nNote: Storage charges will be effective as below\n.\nCount from ATA date, based on chargeable weight , excluded Saturday, Sunday\n& Public Holiday\n.\n1\nst\n& 2\nnd\nday\n–\nFOC\n3\nrd\nday\n–\nMYR\n0.90/kg\nor min 30.00\nAfter 4\nth\nday\n–\nMYR\n1.00/kg\nor min 30.00\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n’\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weighed prior to loading onto a vessel.\nVerification of the weight is the responsibility of the shipper\n. This will come into effect on July 1st, 2026. Due to this new regulation additi",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Dear Team,\nCould you please provide FCL rate from Port Klang to Labuan Port based on\n1 x 40 GP\nincluding Loading lashing stuffing and handling charges.\nDeadline:\n07.04.2026\nEquipment type:\n1 x 40 GP\nRequired Delivery:\n17.04.2026\nPOL :\nPort Klang\nPOD\n:\nLabuan Port\nCommodity:\nOilfield equipment.\nCargo Details:\nPackage No\nQuantity\nL (cm)\nW (cm)\nH (cm)\nWeight (kgs)\nCBM\n1\n1\n107\n128\n126\n504\n1.73\n2\n1\n107\n128\n126\n504\n1.73\n3\n1\n107\n128\n126\n504\n1.73\n4\n1\n107\n128\n126\n504\n1.73\n5\n1\n107\n128\n126\n504\n1.73\n6\n1\n107\n128\n126\n504\n1.73\n7\n1\n107\n128\n126\n504\n1.73\n8\n1\n107\n128\n126\n504\n1.73\n9\n1\n107\n128\n126\n504\n1.73\n10\n1\n107\n128\n126\n504\n1.73\n11\n1\n107\n128\n126\n504\n1.73\n12\n1\n107\n128\n126\n504\n1.73\n13\n1\n107\n128\n126\n504\n1.73\n14\n1\n107\n128\n126\n504\n1.73\n15\n1\n107\n128\n126\n504\n1.73\n16\n1\n107\n128\n126\n504\n1.73\n17\n1\n107\n128\n126\n934\n1.73\n18\n1\n107\n128\n126\n934\n1.73\n19\n1\n107\n128\n126\n934\n1.73\n20\n1\n107\n128\n126\n934\n1.73\nTotal\n20\n11800\n34.51392\nThanks and Regards\nGufran Shaikh\nSpecialist Bids & Pricing\nIndustrial Projects, GSC Mumbai\nDHL Global Forwarding Freight Shared Services (India) LLP\n5th Floor, Tower A, Embassy 247 Park,\nLBS Road, Vikhroli (W), Mumbai – 400083, India\nTel:\n+91 22 61152500 (Board)\nThe Freight Forwarding experts since 1815! Become one of us:\nDHL Careers",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from LPK to DMM.\nSPECIAL INSTRUCTION : CARGO READY FOR COLLECTION 1x20GP include 14 days FT at POD\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nIBC\n4\n120.00\n100.00\n116.00\ncms\n1.392\n5.568\nKilogram\n950\n3800\nTotal\n4\n5.568\n3800.000\nThanks.\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any attachment from\nyour system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this\nemail and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nBelow project cargo request need your support.\nWe received new project cargo rate request from Pasir Gudang, Malaysia to Kuching Port, Malaysia under PTP service.\nCould you please support to check rates for this shipment? Waiting for your quotation. Thanks.\nItem Dimensions:\n800.1cm x 236.22cm x 236.22cm x 11600 kg\n403.86cm x 236.22cm x 236.22cm x 5900 kg\nCargo Handling Requirements:\nHandle with care\nPermit/Registration Required: N/A\nPick-up date: 2026-03-23\nDelivery Date: 2026-04-23\nOrigin Country: Pasir Gudang, Malaysia\nDestination Country: Kuching Port, Malaysia\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020\n2912\nFax         +606  8023 5016\nMobile     +\n019 3449940\nMazuin.Ismail@dhl.com\nwww.dhl.com\nNote: Storage charges will be effective as below\n.\nCount from ATA date, based on chargeable weight , excluded Saturday, Sunday\n& Public Holiday\n.\n1\nst\n& 2\nnd\nday\n–\nFOC\n3\nrd\nday\n–\nMYR\n0.90/kg\nor min 30.00\nAfter 4\nth\nday\n–\nMYR\n1.00/kg\nor min 30.00\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n’\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weighed prior to loading onto a",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Dear All\nPlease quote us rate from MYPKG to Kuwait via 2x40GP.\nPlease include fumigation charges as well.\n2x40’GP up to Shuwaikh\n1\nst\n40’GP = 3 X 386 W:122 H:48 cm\n2\nnd\n40’GP = 3 X 386 W:122 H:48 cm + 1 x L:385 W:100 H:48\nOilwell Equipment\nNON-STACKABLE\nUnits:cm L:385 W:100 H:48 q-ty:1 Weight: 210.65 Kg Package Type:Crate\nUnits:cm L:386 W:122 H:48 q-ty:4 Weight: 274.88 Kg Package Type:Crate\nUnits:cm L:386 W:122 H:48 q-ty:2 Weight: 1092.5 Kg Package Type:Crate\nTotal 7 Crates = 3495.17Kgs\nCollection address:\nMEIBAN ENERGY SERVICES SDN BHD,\nNO 2, JALAN SEROJA 28,\nBANDAR INDAHPURA,\n81000 KULAI, JOHOR, MALAYSIA\nKind Regards,\nNur Ameera binti Zainal Azman (Ameera)\nIndustrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nMobile     +012 386 0074\nNurAmeera.ZainalAzman@dhl.com\nwww.dhl.com\n*********************************************\nGroup ID email :\nedgmy-dgf-industrial-project@dhl.com\nPricing team email ID :\nedgmy-dgf-kul-oe-quote@dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n’\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weighed prior to loading onto a vessel.\nVerification of the weight is the responsibility of the shipper\n. This will come into effect on J",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Dear All\nPlease quote us rate from MYPKG to Kuwait via 2x40GP.\nPlease include fumigation charges as well.\n2x40’GP up to Shuwaikh\n1\nst\n40’GP = 3 X 386 W:122 H:48 cm\n2\nnd\n40’GP = 3 X 386 W:122 H:48 cm + 1 x L:385 W:100 H:48\nOilwell Equipment\nNON-STACKABLE\nUnits:cm L:385 W:100 H:48 q-ty:1 Weight: 210.65 Kg Package Type:Crate\nUnits:cm L:386 W:122 H:48 q-ty:4 Weight: 274.88 Kg Package Type:Crate\nUnits:cm L:386 W:122 H:48 q-ty:2 Weight: 1092.5 Kg Package Type:Crate\nTotal 7 Crates = 3495.17Kgs\nCollection address:\nMEIBAN ENERGY SERVICES SDN BHD,\nNO 2, JALAN SEROJA 28,\nBANDAR INDAHPURA,\n81000 KULAI, JOHOR, MALAYSIA\nKind Regards,\nNur Ameera binti Zainal Azman (Ameera)\nIndustrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nMobile     +012 386 0074\nNurAmeera.ZainalAzman@dhl.com\nwww.dhl.com\n*********************************************\nGroup ID email :\nedgmy-dgf-industrial-project@dhl.com\nPricing team email ID :\nedgmy-dgf-kul-oe-quote@dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n’\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weighed prior to loading onto a vessel.\nVerification of the weight is the responsibility of the shipper\n. This will come into effect on J",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Dear All\nPlease quote us rate from MYPKG to Jakarta Port via 1x20 GP.\nPlease include fumigation charges as well.\nMOT: 1X20’GP – FCL\nPOD: JAKARTA, IDJKT\nCARGO DETAILS:\nOILWELL CHEMICALS (NON-DG), MSDS ATTACHED\n20 PALLETS / 16,420 KG\n112 X 112 X 102 CM, 821 KG EACH\nPick up Number\nLot #\nPick Up Date\nPick Up Address\nPoint Of Contact (for Pick Up)\nTotal Quantity\nProduct\n-\nTBA\n6\nTH\nApr 2026 onwards\nSumisaujana TCM Chemicals Sdn Bhd\nNo. 1, Jalan TIAJ 2/6, Taman Industri Alam Jaya, 42300, Puncak Alam, Selangor, Malaysia.\nHaikal +60 17-374 8659\nZul +60182363880\n80 DRUM\nM0004656 - NOVATEC S - DM,190 KG\nKind Regards,\nNur Ameera binti Zainal Azman (Ameera)\nIndustrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nMobile     +012 386 0074\nNurAmeera.ZainalAzman@dhl.com\nwww.dhl.com\n*********************************************\nGroup ID email :\nedgmy-dgf-industrial-project@dhl.com\nPricing team email ID :\nedgmy-dgf-kul-oe-quote@dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n’\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weighed prior to loading onto a vessel.\nVerification of the weight is the responsibility of the shipper\n. This will come into effect on July 1st, 2026.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from PKG to VUT\nSPECIAL INSTRUCTION : There are 2 set of Radioactive Tools that will be shipped in the basket. Please do look for option via Port Klang or Singapore (if no option from PKG) to Vung Tau Port, Vietnam.\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nONE UNIT BASKET (SN 11852091)\n1\n1224.00\n109.00\n96.00\ncms\n12.808\n12.808\nKilogram\n7700\n7700\nCLASS 7 - RADIOACTIVE MATERIALS\nTotal\n1\n12.808\n7700.000\nThanks\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any attachment from\nyour system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this\nemail and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from PKG to\nFRE\n.\nSPECIAL INSTRUCTION : Do refer to the attached CIPL, SDS and SLI. Cargo is to be collected from 3rd party warehouse at Port Klang. Incoterm Halliburton has with supplier is FCA Port Klang Whse. Ensure quote all cost in - Door-to-Port, included all the DG handling.\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nIBC TANKS (DG CHEMICAL)\n3\n110.00\n110.00\n100.00\ncms\n1.21\n3.63\nKilogram\n1105\n3315\nCLASS 3 - FLAMMABLE LIQUID\nTotal\n3\n3.63\n3315.000\nThanks\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any attachment from\nyour system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this\nemail and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Dear Team,\nCould you please provide\nFCL rate\nfrom\nPort Klang\nport to\nLabuan Port\nbased on\n1 x 40 GP/HC\nfor below cargo details including loading lashing stuffing.\nDeadline:\n28/03/2025\nEquipment type:\n1 x 40 GP/HC\nKindly provide the Following details :-\nCarrier -\nTransit Routing -\nTransit days –\nETD-\nETA-\nCut-off date –\nAlso please provide 2 Future Schedule –\nPOL:  Port Klang port\nPOD:  Labuan Port\nCommodity:\nOilfield equipment\nCargo Details:-\nPackage No\nQuantity\nL (cm)\nW (cm)\nH (cm)\nWeight (kgs)\nCBM\n1\n1\n631\n40\n39\n800\n0.98\n2\n1\n455\n92\n107\n1500\n4.48\nTotal\n2\n2300\n5.46\nThanks and Regards,\nJackson Dcosta\nSpecialist, Bids & Pricing, Industrial Projects, GSC Mumbai\nDHL Global Forwarding Freight Shared Services (India) LLP\n5th Floor, Tower A, Embassy 247 Park,\nLBS Road, Vikhroli (W), Mumbai – 400083, India\nTel: + 91 22 61152600 (Board)\nTel: +91 22 61152805 (Direct)\nThe Freight Forwarding experts since 1815! Become one of us:\nDHL Careers",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Dear Team,\nCould you please provide\nFCL rate\nfrom\nPort Klang\nport to\nLabuan Port\nbased on\n1 x 40 GP/HC\nfor below cargo details including loading lashing stuffing.\nDeadline:\n28/03/2025\nEquipment type:\n1 x 40 GP/HC\nKindly provide the Following details :-\nCarrier -\nTransit Routing -\nTransit days –\nETD-\nETA-\nCut-off date –\nAlso please provide 2 Future Schedule –\nPOL:  Port Klang port\nPOD:  Labuan Port\nCommodity:\nOilfield equipment\nCargo Details:-\nPackage No\nQuantity\nL (cm)\nW (cm)\nH (cm)\nWeight (kgs)\nCBM\n1\n1\n631\n40\n39\n800\n0.98\n2\n1\n455\n92\n107\n1500\n4.48\nTotal\n2\n2300\n5.46\nThanks and Regards,\nJackson Dcosta\nSpecialist, Bids & Pricing, Industrial Projects, GSC Mumbai\nDHL Global Forwarding Freight Shared Services (India) LLP\n5th Floor, Tower A, Embassy 247 Park,\nLBS Road, Vikhroli (W), Mumbai – 400083, India\nTel: + 91 22 61152600 (Board)\nTel: +91 22 61152805 (Direct)\nThe Freight Forwarding experts since 1815! Become one of us:\nDHL Careers",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Dear\n@M. SHALINI\n@Pricing Team\nPlease assist to quote for export local handling and freight 1 x 20GP, from PORT KLANG TO CHENNAI PORT.\nKindly provide sailing schedule as well.\n50 drums -\nRBW80122 WATER CLARIFIER\nNON DG, packed on pallets – pending confirm dims\nThank you.\nHEMMA ARULDASS\nExecutive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower, SkyPark One City,\nJalan USJ 25/1, 47650 Subang Jaya,\nSelangor, Malaysia.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to dmm via LCL\nSPECIAL INSTRUCTION : CARGO READY FOR COLLECTION\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nIBC\n4\n120.00\n100.00\n116.00\ncms\n1.392\n5.568\nKilogram\n950\n3800\nTotal\n4\n5.568\n3800.000\nThanks.\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020 2246\nkailing.moo@dhl.com\nwww.dhl.com\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the\nintended recipient please contact the sender and delete this message and any attachment from\nyour system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this\nemail and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Dear\n@sales@bluewave.com.my\nIncoming shipment in MYPKG.\nWe have a project with ABB, please quote us for below charges:\nCrane charges ( Handling IN )\nCrane Charges ( Handling Out )\nHeavy Lift/ Manpower ( Handling IN )\nHeavy Lift / Manpower ( Handling OUT )\nIndoor Storage ( for 7 DAYS – 1 week )\nDelivery to Sepang  / Seremban / Bukit Jalil.\nMajor Products\nQty of Cargo\nPacking Dimensions\n(L x W x H) MM\nUnit Weight(kg)\nGross Weight(kg)\nManufacturing Location/ CCO\nShip to Location\nEstimated Time of Arrival at Port Klang\nHS Code\nContainer Details\n(1) Crane Charges to unload the equipment from truck (IN )\n(2) Crane Charges to load the equipment into truck ( OUT )\n(3) Heavy lift Handling Charges & Manpower ( IN )\n(4) Heavy lift Handling Charges & Manpower ( OUT )\nOPTIONAL -Indoor Storage Charges for one week\nCustoms clerance in Port Klang\nDelivery cost to location KUL 073 (Bukit Jalil 57000)\nDelivery cost to location KUL 074 (Seremban, 71800)\nDelivery cost to location KUL 075 (Sepang 63000)\nMV Switchgear (UG ZS2) and accessories (base frame)\n16\n1400\n4000\n3076\n2220\n35520\nNasik, India\nMalaysia Site Location\n2 sets of MV Switchgear by 30th March 2027\n8537 20 9000\n7 x 40ft Open TOP Container\nMV Switchgear (Safeplus RMU) and accessories\n7\n1630\n1200\n2530\n850\n5950\nBejing, China\nMalaysia Site Location\n7 Units of RMU Panels by 30th March 2027;\n8537 20 9000\n1 x 40ft HC Containe\nMV Switchgear (Safeplus RMU) and accessories\n2\n1630\n1200\n2530\n850\n1700\nBejing, China\nMalaysia Site Location\n2 Units of RMU Panels by 30th June 2027\n8537 20 9000\nLCL\na) VLRA Batteries - 9block for each set\n6\n1140\n1800\n2300\n1400\n1500\nChina\nMalaysia Site Location\n2 sets of Battery by 30th March 2027\n8507 20 99\n1 x 40ft Flat Rack Container\nb) Battery Charger\n1140\n1800\n2300\n550\n800\nSingapore\nMalaysia Site Location\n2 sets of Battery Charger by 30th March 2027\n8504 40 90\nc) Battery Monitoring System\nSingapore\nMalaysia Site Location\n1 set of BMS by 30th March 2027\n8504 40 90\nd) ACDB & DCDB\nSingapore\nMalaysia Site Location",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to melbourne\nSPECIAL INSTRUCTION : SUPER URGENT NEED IN MEL, PLS LOOK EARLIST VESSEL ETA Collection address as below : 2A, Jalan Semenyih Integrated 1, Semenyih Integrated Industrial Park, 43500 Semenyih, Selangor PIC: Rony H/P: +60 11-1947 4686 Our warehouse operating hours (Fasting Month): Mon–Sat: 8:00 a.m. to 4:00 p.m.\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nIBC TANKS\n10\n110.00\n110.00\n100.00\ncms\n1.21\n12.1\nKilogram\n1170\n11700\nTotal\n10\n12.1\n11700.000\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020\n2912\nFax         +606  8023 5016\nMobile     +\n019 3449940\nMazuin.Ismail@dhl.com\nwww.dhl.com\nNote: Storage charges will be effective as below\n.\nCount from ATA date, based on chargeable weight , excluded Saturday, Sunday\n& Public Holiday\n.\n1\nst\n& 2\nnd\nday\n–\nFOC\n3\nrd\nday\n–\nMYR\n0.90/kg\nor min 30.00\nAfter 4\nth\nday\n–\nMYR\n1.00/kg\nor min 30.00\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n’\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weight",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to CAI MEP port\nSPECIAL INSTRUCTION : SUPER URGENT SHIPMENT NEED IN\nCai Mep Port\nBEFORE 25-MAR-2026, INCLUDE COLLECTION FROM KSB AND LOOK EARLIST VESSEL TO CAT LAI PORT, VIETNAM\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\n16 WOODEN PALLET\n16\n120.00\n120.00\n122.00\ncms\n1.757\n28.112\nKilogram\n760\n12160\nCLASS 9 - MISCELLANEOUS DANGEROUS GOODS\n3 WOODEN PALLET\n3\n120.00\n120.00\n122.00\ncms\n1.757\n5.271\nKilogram\n760\n2280\nTotal\n19\n33.383\n14440.000\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020\n2912\nFax         +606  8023 5016\nMobile     +\n019 3449940\nMazuin.Ismail@dhl.com\nwww.dhl.com\nNote: Storage charges will be effective as below\n.\nCount from ATA date, based on chargeable weight , excluded Saturday, Sunday\n& Public Holiday\n.\n1\nst\n& 2\nnd\nday\n–\nFOC\n3\nrd\nday\n–\nMYR\n0.90/kg\nor min 30.00\nAfter 4\nth\nday\n–\nMYR\n1.00/kg\nor min 30.00\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n’\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weighed prior to loading",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to Melbourne via fcl.\nSPECIAL INSTRUCTION : SUPER URGENT, LOOK FOR OPTION ETA MEL PORT 1ST WEEK APRIL, DO INCLUDE COLLECTION FROM IMEXTCO PKG CARGO READY ON 16-MAR-26 COLLECTION ADDRESS IMEXTCO (M) SDN BHD – WAREHOUSE LOT 9 & 11, LORONG SULTAN HISHAMUDDIN 1, KAWASAN PERINDUSTRIAN SELAT KLANG UTARA, 42000 PORT KLANG, SELANGOR, MALAYSIA. ATTN: MR. CHAN (+ 6 012 502 9127) / MR. BRYAN (+ 6 012 216 1299)\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nIBC TANKS\n3\n110.00\n110.00\n100.00\ncms\n1.21\n3.63\nKilogram\n1105\n3315\nCLASS 3 - FLAMMABLE LIQUID\nTotal\n3\n3.63\n3315.000\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel          +603  8020\n2912\nFax         +606  8023 5016\nMobile     +\n019 3449940\nMazuin.Ismail@dhl.com\nwww.dhl.com\nNote: Storage charges will be effective as below\n.\nCount from ATA date, based on chargeable weight , excluded Saturday, Sunday\n& Public Holiday\n.\n1\nst\n& 2\nnd\nday\n–\nFOC\n3\nrd\nday\n–\nMYR\n0.90/kg\nor min 30.00\nAfter 4\nth\nday\n–\nMYR\n1.00/kg\nor min 30.00\nDHL Global Forwarding – Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n–\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n’\ns\nContainer Weighing:\nThe International Maritime Organization",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "biz_data_xlsx_correction",
+    "labeled_at": "2026-05-01T19:52:19.938703+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease assist to quote your export handling charges at PKG for 1x20'GP based on cargo details below.\nINCO TERMS: EXW\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\n4 DRUMS PER PALLET\n120\n110.00\n110.00\n115.00\ncms\n1.392\n167.04\nKilogram\n897\n107640\nTotal\n120\n167.04\n107640.000\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel +603 8020 2912\nMazuin.Ismail@dhl.com\nwww.dhl.com",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "manual_correction",
+    "note": "EXW + export handling only at PKG, no POD = WH only not NVOCC+WH",
+    "labeled_at": "2026-05-02T12:09:30.826045+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease assist to quote your export handling charges at PKG for 1x20'GP based on cargo details below.\nINCO TERMS: EXW\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\n4 DRUMS PER PALLET\n120\n110.00\n110.00\n115.00\ncms\n1.392\n167.04\nKilogram\n897\n107640\nTotal\n120\n167.04\n107640.000\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel +603 8020 2912\nMazuin.Ismail@dhl.com\nwww.dhl.com",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "manual_correction",
+    "note": "EXW + export handling at PKG only, no POD = WH only",
+    "labeled_at": "2026-05-02T12:14:33.610130+00:00"
+},
+{
+    "email_text": "Dear Ms. @M. SHALINI,\nGood day.\nPlease assist to quote your export handling charges at PKG for 1x20'GP based on cargo details below.\nINCO TERMS: EXW\nYour prompt response is highly appreciated.\nPRODUCT DETAILS\n4 DRUMS PER PALLET\n60\n110.00\n110.00\n115.00\ncms\n1.392\n83.52\nKilogram\n897\n53820\nTotal\n60\n83.52\n53820.000\nCordialement / Best Regards\nNur Najihah HISHAM (Ms. Najihah)\nExecutive | Energy x Projects\nCEVA MALAYSIA (AIR & OCEAN) SDN. BHD.\nnajihah.hisham@cevalogistics.com",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "wh_only_extra",
+    "note": "EXW + export handling only at PKG, no POD",
+    "labeled_at": "2026-05-02T12:14:33.610130+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease assist to quote stuffing charges at PKG for 1x40'GP.\nINCO TERMS: EXW\nPRODUCT DETAILS\nWOODEN PALLET\n40\n110.00\n110.00\n105.00\ncms\n1.271\n50.84\nKilogram\n779\n31160\nTotal\n40\n50.84\n31160.000\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel +603 8020 2912\nMazuin.Ismail@dhl.com\nwww.dhl.com",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "wh_only_extra",
+    "note": "Stuffing only at PKG, no POD",
+    "labeled_at": "2026-05-02T12:14:33.610130+00:00"
+},
+{
+    "email_text": "Dear Ms. @M. SHALINI,\nGood day.\nPlease assist to quote your export handling charges at PKG for 1x20'GP based on cargo details below.\nINCO TERMS: EXW\nNo CIPL available; bidding stage.\nPRODUCT DETAILS\nIBC TANKS\n10\n110.00\n110.00\n100.00\ncms\n1.21\n12.1\nKilogram\n1170\n11700\nTotal\n10\n12.1\n11700.000\nCordialement / Best Regards\nNur Najihah HISHAM (Ms. Najihah)\nExecutive | Energy x Projects\nCEVA MALAYSIA (AIR & OCEAN) SDN. BHD.\nnajihah.hisham@cevalogistics.com",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "wh_only_extra",
+    "note": "EXW + export handling only, IBC tanks, no POD",
+    "labeled_at": "2026-05-02T12:14:33.610130+00:00"
+},
+{
+    "email_text": "Hi,\nPlease quote stuffing charges using 1x40FR.\n2 test cabins\nTest cabin: Dims: 396.5 x 243.8 x 289.6 cm; weight is 6000 kg each.\nThanks.\nKind Regards,\nHazwani Bahaudin\nSenior Operations Executive\nPentagon Freight & Forwarding Services Sdn Bhd\nT +603-78312002\nM +6012-2840426\nE Hazwani.Bahaudin@pentagonfreight.com",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "wh_only_extra",
+    "note": "Stuffing charges only, 1x40FR, no POD",
+    "labeled_at": "2026-05-02T12:14:33.610130+00:00"
+},
+{
+    "email_text": "Hi Bluewave Team,\nWe have import shipment to KSB.\nThere are 2 BLs; 1x20GP (SOC) and 1x40FR (OOG).\nPlease assist to arrange unstuffing for the 40FR.\nEDO released.\nThanks.\nKind Regards,\nHazwani Bahaudin\nSenior Operations Executive\nPentagon Freight & Forwarding Services Sdn Bhd\nT +603-78312002\nM +6012-2840426\nE Hazwani.Bahaudin@pentagonfreight.com",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "wh_only_extra",
+    "note": "Inbound unstuffing only at PKG/KSB, no outbound ocean",
+    "labeled_at": "2026-05-02T12:14:33.610130+00:00"
+},
+{
+    "email_text": "Dear Ms. @M. SHALINI,\nGood day.\nPlease assist to quote your export handling charges at PKG for 1x20'OT based on cargo details below.\nINCO TERMS: EXW\nSpecial Instruction: To advise the charges based on the direct loading option.\nPRODUCT DETAILS\nDRUM SKID FRAME\n1\n203.00\n137.00\n140.00\ncms\n3.894\n3.894\nKilogram\n5000\n5000\nTotal\n1\n3.894\n5000.000\nCordialement / Best Regards\nNur Najihah HISHAM (Ms. Najihah)\nExecutive | Energy x Projects\nCEVA MALAYSIA (AIR & OCEAN) SDN. BHD.\nnajihah.hisham@cevalogistics.com",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "wh_only_extra",
+    "note": "EXW + export handling OT container at PKG, no POD",
+    "labeled_at": "2026-05-02T12:14:33.610130+00:00"
+},
+{
+    "email_text": "Hi\nPlease quote EXW handling at PKG.\nCollection address: BJ Services Shah Alam\n1x20GP\nFilter skid: 186 x 154 x 138 cm / 550 kg\nMachine skid: 204 x 140 x 148 cm / 1,500 kg\nTotal GW: 2,050 kg\nThanks\nMuhammad Syahmi Rusli\nBusiness Development Manager\nProject Logistics | Freight Forwarding\nGEODIS\nC-602, LEVEL 6, CENTRAL TOWER\nWISMA CONSPLANT 1, NO 2, JALAN SS16/4,\n47500 Subang Jaya, Selangor / Malaysia\nsyahmi.rusli@geodis.com",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "wh_only_extra",
+    "note": "EXW handling at PKG only, no POD stated",
+    "labeled_at": "2026-05-02T12:14:33.610130+00:00"
+},
+{
+    "email_text": "Dear @M. SHALINI,\nKindly help to quote import handling charges (container unstuffing, haulage, loose delivery to consignee).\nVessel estimates to arrive PKG by 23rd April.\nMode: Sea freight / 1x20'OT\nCargo details:\n01 Package\nDim: 253 x 162 x 316 cm\nGW: 2180.00 KG\nRequirement:\nSea import local charges at PKG\nContainer unstuffing\nHaulages & Delivery to consignee\nKind Regards,\nKai Ling Moo\nIndustrial Project, Intern\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 9, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel +603 8020 2246\nkailing.moo@dhl.com",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "wh_only_extra",
+    "note": "Inbound unstuffing + delivery at PKG only, no outbound",
+    "labeled_at": "2026-05-02T12:14:33.610130+00:00"
+},
+{
+    "email_text": "Dear Ms. @M. SHALINI,\nGood day.\nPlease assist to advise on your export handling (stuffing) charges at PKG for 1x40'GP based on cargo details below.\nINCO TERMS: EXW\nYour prompt response is highly appreciated.\nCargo details:\n2 Wooden Crates\n750 x 30 x 50cm - 1 / 1,200kgs\n750 x 30 x 50cm - 1 / 1,200kgs\nTotal GW: 2,400kgs\nCordialement / Best Regards\nNur Najihah HISHAM (Ms. Najihah)\nExecutive | Energy x Projects\nCEVA MALAYSIA (AIR & OCEAN) SDN. BHD.\nnajihah.hisham@cevalogistics.com",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "wh_only_extra",
+    "note": "EXW stuffing charges only at PKG, no POD",
+    "labeled_at": "2026-05-02T12:14:33.610130+00:00"
+},
+{
+    "email_text": "Dear @Sales Team\nPlease quote us rate for inbound handling incoming shipment 1X40GP at MYPKG.\nGW for 8 axle: 14,738 kg\nDimensions: 300 cm x 71 cm x 100 cm per axle / not stackable (8 pc)\nKind Regards,\nNur Ameera binti Zainal Azman (Ameera)\nIndustrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nMobile +012 386 0074\nNurAmeera.ZainalAzman@dhl.com\nwww.dhl.com",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "wh_only_extra",
+    "note": "Inbound handling only at MYPKG, no outbound ocean",
+    "labeled_at": "2026-05-02T12:14:33.610130+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to Melbourne port\nSPECIAL INSTRUCTION :\nDO INCLUDE LPK, CPC INSPECTION\nAND COLLECTION FROM VENDOR AND EARLIST VESSEL TO MEL PORT. Your order ready for collection by next Monday \u2013 18th May 2026, our warehouse remain unchanged as below :- IMEXTCO (M) SDN BHD \u2013 WAREHOUSE LOT 9 & 11, LORONG SULTAN HISHAMUDDIN 1, KAWASAN PERINDUSTRIAN SELAT KLANG UTARA, 42000 PORT KLANG, SELANGOR, MALAYSIA. ATTN : MR. CHAN (+ 6 012 502 9127) / MR. BRYAN (+ 6 012 216 1299)\nINCO TERMS: FCA\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\n3 IBC TANKS\n3\n110.00\n110.00\n100.00\ncms\n1.21\n3.63\nKilogram\n1105\n3315\nCLASS 3 - FLAMMABLE LIQUID\nTotal\n3\n3.63\n3315.000",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "FREIGHT FORWARDING"
+    ],
+    "subject": "FW: Spot Bid Request(RSSB-37861) TIME SENSITIVE RESPONSE REQUIRED Customer: HALLIBURTON GLOBAL FREIGHT",
+    "labeled_at": "2026-05-15T07:35:53.615856+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to sohar\nSPECIAL INSTRUCTION : REQ : 2 X 20GP 14 DAYS FREE TIME AT POD MUST INCOTERM EXW Puncak Alam, Malaysia, Pls include all local handling from SSTC to PORT ** PERFER SHORTER LEADTIME ***\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\n4 DRUMS PER PALLET\n40\n110.00\n110.00\n115.00\ncms\n1.392\n55.68\nKilogram\n897\n35880\nTotal\n40\n55.68\n35880.000\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +603\u00a0 8020\n2912\nFax\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +606\u00a0 8023 5016\nMobile\u00a0\u00a0\u00a0\u00a0 +\n019 3449940\nMazuin.Ismail@dhl.com\nwww.dhl.com\nNote: Storage charges will be effective as below\n.\nCount from ATA date, based on chargeable weight , excluded Saturday, Sunday\n& Public Holiday\n.\n1\nst\n& 2\nnd\nday\n\u2013\nFOC\n3\nrd\nday\n\u2013\nMYR\n0.90/kg\nor min 30.00\nAfter 4\nth\nday\n\u2013\nMYR\n1.00/kg\nor min 30.00\nDHL Global Forwarding \u2013 Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n\u2013\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n\u2019\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weighed prior to loading onto a vessel.\nVerification of the weight is the responsibility of the shipper\n. This will come into effect on July 1st, 2026. Due to this new regulation additional charges may apply and will subsequently be added to our pricing offer.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "NVOCC"
+    ],
+    "subject": "FW: Spot Bid Request(RSSB-37767) TIME SENSITIVE RESPONSE REQUIRED Customer: HALLIBURTON GLOBAL FREIGHT",
+    "labeled_at": "2026-05-15T07:36:24.161902+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to Manila\nScope\u00a0\u00a0\u00a0\u00a0 :\nLoose pickup (\nAir ride-Truck\n)\nLocal charges\nOcean freight(with TT & schedule)\nPickup\u00a0\u00a0 : EAGLE TEST SYSTEMS C/O SCHENKER LOGISTICS (MALAYSIA) SDN. BHD., 47-A JALAN BATU MAUNG, DIS3PLEX FREE COMMERCIAL ZONE, PENANG,MY 11960 MALAYSIA\nTerm\u00a0\u00a0\u00a0\u00a0\u00a0 : Door to Port\nPOL\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : Please consider nearest port.\nPOD\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : Manila\nEqp\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : 1 x 20\u2019 OT\nCargo is non-stackable.\nStop #\nDescription\nL x W x H (UOM)\nHandling Units\nWeight\nUOM\n1\nETS800 TEST SYSTEM E8A4-11113-32\n142.00 x 100.00 x 299.00\u00a0(CM)\n1\u00a0CARTON\n749\nKG\n1\nETS800 TEST SYSTEM E8A4-11113-32\n168.00 x 151.00 x 144.00\u00a0(CM)\n1\u00a0CARTON\n541\nKG\n1\nETS800 TEST SYSTEM E8A4-11113-32\n130.00 x 130.00 x 118.00\u00a0(CM)\n1\u00a0CARTON\n117\nKG\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +603\u00a0 8020\n2912\nFax\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +606\u00a0 8023 5016\nMobile\u00a0\u00a0\u00a0\u00a0 +\n019 3449940\nMazuin.Ismail@dhl.com\nwww.dhl.com\nNote: Storage charges will be effective as below\n.\nCount from ATA date, based on chargeable weight , excluded Saturday, Sunday\n& Public Holiday\n.\n1\nst\n& 2\nnd\nday\n\u2013\nFOC\n3\nrd\nday\n\u2013\nMYR\n0.90/kg\nor min 30.00\nAfter 4\nth\nday\n\u2013\nMYR\n1.00/kg\nor min 30.00\nDHL Global Forwarding \u2013 Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n\u2013\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n\u2019\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weighed prior to loading onto a vessel.\nVerification of the weight is the responsibility of the shipper\n. This will come into effect on July 1st, 2026. Due to this new regulation additional charges may apply and will subsequently be added to our pricing offer.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "FREIGHT FORWARDING"
+    ],
+    "subject": "FW: C26050481 TEX MY TO PH DTP 20260514517, PO# 4516350241, Booking # TEX173688",
+    "labeled_at": "2026-05-15T07:36:44.276605+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to muara\nSPECIAL INSTRUCTION :\nDO INCLUDE COLLECTION FROM GLOBAL INDUSTRIAL CHEMICALS PORT KLANG, A\nCOLLECTION ADDRESS :\nGlobal Asia Industrial Chemical Sdn Bhd A 13,\nJalan FZ2-P3, Port Klang Free Trade Zone/KS 12 Pulau Indah,\nPelabuhan Klang, 42920 Selangor, Malaysia Tel: 603-31015035, Fax: 603-31015057\nINCO TERMS: FCA\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nIBC TANK\n14\n116.00\n100.00\n120.00\ncms\n1.392\n19.488\nKilogram\n920\n12880\nCLASS 9 - MISCELLANEOUS DANGEROUS GOODS\nTotal\n14\n19.488\n12880.000",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "FREIGHT FORWARDING"
+    ],
+    "subject": "FW: Spot Bid Request(RSSB-37608) TIME SENSITIVE RESPONSE REQUIRED Customer: HALLIBURTON GLOBAL FREIGHT",
+    "labeled_at": "2026-05-15T07:37:22.327465+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to jakarta\nSPECIAL INSTRUCTION : DO INCLUDE COLLECTION FROM KSB,\nLPL (CPC) INSPECTION FOR DG ACCEPTANCE\nAND LOOK FOR EARLIST VESSEL TO JAKARTA PORT\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nWOODEN PALLET\n1\n112.00\n112.00\n110.00\ncms\n1.38\n1.38\nKilogram\n230\n230\nCLASS 9 - MISCELLANEOUS DANGEROUS GOODS\nTotal\n1\n1.38\n230.000",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "NVOCC"
+    ],
+    "subject": "FW: Spot Bid Request(RSSB-37852) TIME SENSITIVE RESPONSE REQUIRED Customer: HALLIBURTON GLOBAL FREIGHT",
+    "labeled_at": "2026-05-15T07:37:44.919986+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to Dmm via Jeddah\nSPECIAL INSTRUCTION : Final Delivery to Dammam . Please book earliest vessel via Jeddah. Cargo collection 29/05/2026\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\n101357202\nPLUG SET,FREE FALL,9-5/8 8RD&BUTRS\n10\n77.00\n67.00\n78.00\ncms\n0.402\n4.02\nKilogram\n108\n1080\nTotal\n10\n4.02\n1080.000\nSHIPPER DETAILS\nShipper Name\nAddress One\nCity\nCountry\nPORT KELANG\nSENAI JOHOR\nMALAYSIA\nORIGIN PORT DETAILS\nPort Name\nPort Code\nPort Type\nPORT KELANG\nPKG\nSEA\nCONSIGNEE DETAILS\nConsignee Name\nAddress One\nCity\nCountry\nJEDDAH\nJEDDAH\nSAUDI ARABIA\nDESTINATION PORT DETAILS\nPort Name\nPort Code\nPort Type\nJEDDAH\nJED\nSEA\nPlease do not reply to this message or send an email to this address. This message is for informational purposes only and this box is not monitored. Any questions or concerns should be sent to\nhelpnvision@nvisionglobal.com",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "NVOCC"
+    ],
+    "subject": "FW: Spot Bid Request(RSSB-37771) TIME SENSITIVE RESPONSE REQUIRED Customer: HALLIBURTON GLOBAL FREIGHT",
+    "labeled_at": "2026-05-15T07:39:14.480688+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to cebu\nCan you please provide DTP \u00a0Ocean FCL rates to Cebu for the attached capital shipment .\nPlease note ready date is the 22nd May.\nPlease advise sailing option and transit time.\nAttached SDS for battery.\nFinal Dims\n3000 kg \u00a02.66m x \u00a02.3m x 2.3m\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +603\u00a0 8020\n2912\nFax\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +606\u00a0 8023 5016\nMobile\u00a0\u00a0\u00a0\u00a0 +\n019 3449940\nMazuin.Ismail@dhl.com\nwww.dhl.com\nNote: Storage charges will be effective as below\n.\nCount from ATA date, based on chargeable weight , excluded Saturday, Sunday\n& Public Holiday\n.\n1\nst\n& 2\nnd\nday\n\u2013\nFOC\n3\nrd\nday\n\u2013\nMYR\n0.90/kg\nor min 30.00\nAfter 4\nth\nday\n\u2013\nMYR\n1.00/kg\nor min 30.00\nDHL Global Forwarding \u2013 Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n\u2013\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n\u2019\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weighed prior to loading onto a vessel.\nVerification of the weight is the responsibility of the shipper\n. This will come into effect on July 1st, 2026. Due to this new regulation additional charges may apply and will subsequently be added to our pricing offer.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "processed_email_correction",
+    "predicted": [
+        "FREIGHT FORWARDING"
+    ],
+    "subject": "FW: S160866328 On Semi Capital",
+    "labeled_at": "2026-05-15T07:40:23.534738+00:00"
+},
+  {
+    "email_text": "Please provide Port to Port rates including port handling basis on 1 x 20 GP.",
+    "nvocc": 1,
+    "warehouse": 0,
+    "freight_forwarding": 1
+  },
+  {
+    "email_text": "Please quote us from pkg to muara. Include collection from warehouse, DG approval for earliest vessel.",
+    "nvocc": 1,
+    "warehouse": 1,
+    "freight_forwarding": 1
+  },
+{
+    "email_text": "Hi sales\nPlease quote ocean freight from Port Klang to Jebel Ali\n2 x 40HC containers\nFOB Port Klang\n14 days free time at destination required\nCargo ready date: 15th June 2026\nKind Regards,\nSamantha Lee\nGlobal Logistics Ltd",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "synthetic_nvocc_pure",
+    "labeled_at": "2026-05-16T10:00:00.000000+00:00"
+},
+{
+    "email_text": "Dear Team,\nRequest quote for sea freight\nPOL: MYPKG\nPOD: USNYC\nEquipment: 1 x 40GP\nIncoterm: FOB\nPlease provide sailing schedule and transit time\nRegards,\nMark Chen",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "synthetic_nvocc_pure",
+    "labeled_at": "2026-05-16T10:01:00.000000+00:00"
+},
+{
+    "email_text": "Hi,\nQuote needed for FCL shipment\nPort Klang to Hamburg\n3 x 20GP containers\nCIF terms\nRequired ETA: End of July 2026\nThanks,\nLisa Wong",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "synthetic_nvocc_pure",
+    "labeled_at": "2026-05-16T10:02:00.000000+00:00"
+},
+{
+    "email_text": "Dear Sales,\nPlease provide ocean freight rates\nOrigin: Port Klang, Malaysia\nDestination: Santos, Brazil\nVolume: 2 x 40HC\nFOB shipping point\n21 days free detention required\nBest regards,\nDavid Tan",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "synthetic_nvocc_pure",
+    "labeled_at": "2026-05-16T10:03:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote sea freight from PKG to Dubai\n1x20GP\nIncoterm: FOB Port Klang\nCargo: Industrial machinery\nMBL required\nKind Regards,\nRajesh Kumar",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "synthetic_nvocc_pure",
+    "labeled_at": "2026-05-16T10:04:00.000000+00:00"
+},
+{
+    "email_text": "Dear Bluewave,\nRequesting quotation for container shipment\nRoute: MYPKG to CNSHA\n2 x 40FR containers\nFOB terms\nPlease advise earliest vessel and transit days\nRegards,\nSarah Lim",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "synthetic_nvocc_pure",
+    "labeled_at": "2026-05-16T10:05:00.000000+00:00"
+},
+{
+    "email_text": "Hi,\nNeed FCL rates from Port Klang to Melbourne\n1 x 40HC\nFOB Port Klang\n14 free days at POD\nCargo ready: 20th May 2026\nThanks,\nJohn Lee",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "synthetic_nvocc_pure",
+    "labeled_at": "2026-05-16T10:06:00.000000+00:00"
+},
+{
+    "email_text": "Dear Team,\nPlease quote export handling charges at Port Klang\n1 x 20GP container stuffing required\nCargo: Packed drums on pallets\nNo freight component needed\nRegards,\nAmy Ng",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_wh_pure",
+    "labeled_at": "2026-05-16T10:07:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales,\nPlease quote stuffing charges only at PKG\n1 x 40HC\nIncoterm: EXW\nCargo ready for stuffing on 25th May\nThanks,\nPeter Wong",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_wh_pure",
+    "labeled_at": "2026-05-16T10:08:00.000000+00:00"
+},
+{
+    "email_text": "Dear Bluewave,\nRequest quote for import handling at Port Klang\nVessel arriving: 15th June 2026\nServices needed:\n- Container unstuffing\n- Loose cargo delivery to consignee\n1 x 20GP\nDelivery address: Shah Alam, Selangor\nRegards,\nMichael Tan",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_wh_pure",
+    "labeled_at": "2026-05-16T10:09:00.000000+00:00"
+},
+{
+    "email_text": "Hi,\nPlease quote inbound handling charges\nContainer unstuffing and haulage\n1 x 40FR arriving at PKG\nDelivery to Johor Bahru\nThanks,\nSusan Lee",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_wh_pure",
+    "labeled_at": "2026-05-16T10:10:00.000000+00:00"
+},
+{
+    "email_text": "Dear Sales,\nQuote needed for export handling at Port Klang\nContainer stuffing: 1 x 20GP\nIncoterm: EXW factory\nNo ocean freight required\nRegards,\nRobert Chen",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_wh_pure",
+    "labeled_at": "2026-05-16T10:11:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales,\nPlease provide charges for:\n- Unstuffing 1 x 40HC at PKG\n- Storage for 3 days\n- Delivery to warehouse in Klang\nNo export/import freight needed\nThanks,\nJenny Lim",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_wh_pure",
+    "labeled_at": "2026-05-16T10:12:00.000000+00:00"
+},
+{
+    "email_text": "Dear Team,\nQuote for container devanning services\n1 x 20OT container\nUnstuffing at Port Klang CFS\nLoose delivery to consignee in Selangor\nRegards,\nDaniel Ng",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_wh_pure",
+    "labeled_at": "2026-05-16T10:13:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales,\nPlease quote from Port Klang to Jakarta\nScope: Collection from supplier warehouse + ocean freight + local handling at PKG\nPickup address: Subang Jaya Industrial Park\n1 x 20GP\nIncoterm: EXW\nInclude stuffing and lashing\nKind Regards,\nEmily Tan",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_combined",
+    "labeled_at": "2026-05-16T10:14:00.000000+00:00"
+},
+{
+    "email_text": "Dear Sales,\nQuote needed from PKG to Singapore\nPlease include:\n- Collection from our factory in Shah Alam\n- Container stuffing and loading\n- Ocean freight to Singapore\n1 x 40HC\nDoor to Port service\nRegards,\nKaren Lee",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_combined",
+    "labeled_at": "2026-05-16T10:15:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales,\nRequest quote from Port Klang to Dubai\nScope includes:\n- Pickup from vendor warehouse\n- Export handling and stuffing\n- Ocean freight\nCollection address: Batu Caves Industrial Area\n1 x 20GP\nEXW terms\nThanks,\nSteven Wong",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_combined",
+    "labeled_at": "2026-05-16T10:16:00.000000+00:00"
+},
+{
+    "email_text": "Dear Team,\nPlease quote for FCL shipment from PKG to Mumbai\nIncluding loading, lashing, and stuffing at Port Klang\nCollection from our warehouse not required\nPOL: Port Klang\nPOD: Nhava Sheva\n1 x 40GP\nRegards,\nMelissa Lim",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_combined",
+    "labeled_at": "2026-05-16T10:17:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales,\nQuote from Port Klang to Ho Chi Minh\nPlease include all local handling charges at PKG\nContainer stuffing and securing required\n1 x 20GP\nCargo: Industrial equipment on pallets\nFCA Port Klang\nThanks,\nBrian Tan",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_combined",
+    "labeled_at": "2026-05-16T10:18:00.000000+00:00"
+},
+{
+    "email_text": "Dear Bluewave,\nPlease provide quote for shipment PKG to Manila\nDoor to Port service required\nPickup from: Petaling Jaya warehouse\nInclude container stuffing\n1 x 40HC\nEXW Petaling Jaya\nRegards,\nAlice Chen",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_combined",
+    "labeled_at": "2026-05-16T10:19:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales,\nQuote needed from PKG to Bangkok\nScope: Export handling + ocean freight\nStuffing and lashing at Port Klang\n1 x 20GP\nFOB Port Klang\nInclude local handling charges\nThanks,\nDavid Lim",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_combined",
+    "labeled_at": "2026-05-16T10:20:00.000000+00:00"
+},
+{
+    "email_text": "Dear Sales,\nRequest quotation PKG to Yangon\nPlease include collection from supplier and stuffing\nPickup: Klang Industrial Park\n1 x 40GP\nDoor to Port\nIncoterm: FCA Port Klang\nRegards,\nSophie Ng",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_combined",
+    "labeled_at": "2026-05-16T10:21:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales,\nPlease quote from Port Klang to Colombo\nInclude loading lashing stuffing charges\nNo pickup required - cargo at port\nPOL: MYPKG\nPOD: Colombo Port\n1 x 20GP\nThanks,\nRachel Wong",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_combined",
+    "labeled_at": "2026-05-16T10:22:00.000000+00:00"
+},
+{
+    "email_text": "Dear Team,\nQuote for shipment from PKG to Chittagong\nScope: Local handling at origin + ocean freight\nContainer stuffing and securing\n1 x 40HC\nCargo ready at Port Klang CFS\nRegards,\nKevin Tan",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_combined",
+    "labeled_at": "2026-05-16T10:23:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales,\nPlease quote us from Port Klang to Karachi\nRequest includes:\n- Spot Bid for urgent shipment\n- Collection from warehouse in Selangor\n- Ocean freight\nPickup address: Batu Caves\n1 x 20GP\nDoor to Port required\nSpecial instruction: TIME SENSITIVE RESPONSE REQUIRED\nKind Regards,\nJessica Lee\nDHL Global Forwarding",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_halliburton_style",
+    "labeled_at": "2026-05-16T10:24:00.000000+00:00"
+},
+{
+    "email_text": "Dear Team,\nSpot Bid Request for urgent shipment\nPOL: Port Klang\nPOD: Dammam\nScope: Collection + export handling + ocean freight\nPickup from: Shah Alam industrial area\n1 x 40GP\nPlease include all local handling charges\nTime sensitive - response needed by EOD\nRegards,\nMark Wilson\nDHL Logistics",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_halliburton_style",
+    "labeled_at": "2026-05-16T10:25:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales,\nSpot Bid Request - URGENT\nCustomer: PETRONAS LOGISTICS\nPKG to Jeddah Port\nDoor to Port service\nCollection address: Kemaman Supply Base\nInclude stuffing and export handling\n1 x 20GP\nSpecial instruction: DO INCLUDE COLLECTION FROM VENDOR\nKind Regards,\nSarah Johnson",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_halliburton_style",
+    "labeled_at": "2026-05-16T10:26:00.000000+00:00"
+},
+{
+    "email_text": "Dear Bluewave,\nUrgent Spot Bid Request\nRoute: MYPKG to Sohar Port\nScope: Door to Port\nPickup from supplier warehouse + ocean freight\nCollection address: Johor industrial zone\n1 x 40HC\nPlease include all local handling from warehouse to port\nTIME SENSITIVE\nRegards,\nMichael Brown",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_halliburton_style",
+    "labeled_at": "2026-05-16T10:27:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales,\nSpot Bid Request for oilfield equipment\nPOL: Port Klang\nPOD: Freetown\nIncoterm: FCA Port Klang warehouse\nScope: Collection from vendor + export handling + ocean freight\nPickup address: Klang Free Trade Zone\n1 x 20OT\nInclude lashing and securing\nRegards,\nLinda Chen",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_halliburton_style",
+    "labeled_at": "2026-05-16T10:28:00.000000+00:00"
+},
+{
+    "email_text": "Dear Sales,\nQuote from Port Klang to Labuan\n1 x 40GP\nFOB Port Klang\nPlease provide:\n- Ocean freight rates\n- Sailing schedule\n- Transit time\nNo handling services required\nRegards,\nTom Lee",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "synthetic_nvocc_clear",
+    "labeled_at": "2026-05-16T10:29:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales,\nRequest sea freight quote\nOrigin: MYPKG\nDestination: THLCH\n2 x 20GP\nFOB shipping point\n14 days free time at destination\nCargo already at port\nThanks,\nAnna Tan",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "synthetic_nvocc_clear",
+    "labeled_at": "2026-05-16T10:30:00.000000+00:00"
+},
+{
+    "email_text": "Dear Team,\nOcean freight quotation needed\nPKG to Jakarta\n1 x 40HC\nCIF terms\nPlease advise carrier and sailing dates\nRegards,\nJames Wong",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "synthetic_nvocc_clear",
+    "labeled_at": "2026-05-16T10:31:00.000000+00:00"
+},
+{
+    "email_text": "Hi,\nPlease quote sea freight only\nPort Klang to Chennai\n1 x 20GP\nFOB terms\nCargo ready at port CFS\nNo additional services needed\nThanks,\nMary Lim",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "synthetic_nvocc_clear",
+    "labeled_at": "2026-05-16T10:32:00.000000+00:00"
+},
+{
+    "email_text": "Dear Bluewave,\nQuote for FCL shipment\nMYPKG to VNVUT\n1 x 40FR\nFOB Port Klang\nMBL required\n21 days detention free time\nRegards,\nPaul Chen",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "synthetic_nvocc_clear",
+    "labeled_at": "2026-05-16T10:33:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales,\nPlease provide inbound handling quote\nVessel ETA: 20th June 2026\nServices needed:\n- Container unstuffing\n- Storage for 5 days\n- Delivery to consignee\n1 x 40HC\nDelivery: Rawang, Selangor\nNo export services\nThanks,\nCathy Ng",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_wh_inbound",
+    "labeled_at": "2026-05-16T10:34:00.000000+00:00"
+},
+{
+    "email_text": "Dear Sales,\nQuote for import handling at PKG\nContainer devanning required\n1 x 20OT\nLoose cargo delivery to factory\nDelivery address: Petaling Jaya\nRegards,\nRyan Lee",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_wh_inbound",
+    "labeled_at": "2026-05-16T10:35:00.000000+00:00"
+},
+{
+    "email_text": "Hi,\nPlease quote unstuffing charges\nArriving at Port Klang next week\n1 x 40GP\nUnstuffing and haulage to warehouse\nDelivery: Klang area\nThanks,\nNancy Tan",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_wh_inbound",
+    "labeled_at": "2026-05-16T10:36:00.000000+00:00"
+},
+{
+    "email_text": "Dear Team,\nInbound handling quote needed\nContainer unstuffing at PKG\nLoose delivery to multiple addresses in Selangor\n1 x 40HC\nNo ocean freight component\nRegards,\nGeorge Wong",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_wh_inbound",
+    "labeled_at": "2026-05-16T10:37:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales,\nPlease quote export stuffing only\n1 x 20GP at Port Klang\nIncoterm: EXW factory\nCargo: Machinery parts on pallets\nNo freight needed\nThanks,\nHelen Lim",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_wh_export",
+    "labeled_at": "2026-05-16T10:38:00.000000+00:00"
+},
+{
+    "email_text": "Dear Bluewave,\nQuote for container stuffing services\n1 x 40HC\nEXW terms - export handling only at PKG\nCargo ready for stuffing: 25th May\nNo ocean component required\nRegards,\nIvan Chen",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_wh_export",
+    "labeled_at": "2026-05-16T10:39:00.000000+00:00"
+},
+{
+    "email_text": "Hi,\nPlease provide charges for:\n- Container stuffing\n- Lashing and securing\nAt Port Klang CFS\n1 x 20GP\nEXW basis only\nThanks,\nJulia Ng",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_wh_export",
+    "labeled_at": "2026-05-16T10:40:00.000000+00:00"
+},
+{
+    "email_text": "Dear Sales,\nQuote needed for export handling\nStuffing 1 x 40FR at PKG\nIncoterm: EXW\nNo destination port specified\nExport handling charges only\nRegards,\nKyle Lee",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_wh_export",
+    "labeled_at": "2026-05-16T10:41:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales,\nPlease quote from PKG to Penang Port\nIncluding:\n- Collection from factory in Klang\n- Container stuffing\n- Ocean freight to Penang\n1 x 20GP domestic shipment\nDoor to Port service\nThanks,\nLinda Tan",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_domestic",
+    "labeled_at": "2026-05-16T10:42:00.000000+00:00"
+},
+{
+    "email_text": "Dear Team,\nQuote for domestic shipment\nPort Klang to Kuching Port\nScope: Export handling + coastal shipping\nStuffing and lashing included\n1 x 40GP\nPOL: MYPKG\nPOD: MYKCH\nRegards,\nMartin Wong",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_domestic",
+    "labeled_at": "2026-05-16T10:43:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales,\nPlease quote from Port Klang to Bintulu\nInclude loading and lashing at PKG\n1 x 20GP\nCargo: Industrial supplies\nCoastal shipping within Malaysia\nThanks,\nOlivia Lim",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_domestic",
+    "labeled_at": "2026-05-16T10:44:00.000000+00:00"
+},
+{
+    "email_text": "Dear Bluewave,\nQuote needed for DG shipment\nPKG to Shanghai\nUN3082 Class 9\nInclude:\n- DG inspection\n- Container stuffing with placards\n- Ocean freight\n1 x 20GP\nHazmat handling required\nRegards,\nPhilip Chen",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_dg",
+    "labeled_at": "2026-05-16T10:45:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales,\nQuote for dangerous goods shipment\nPort Klang to Dubai\nUN1263 Class 3 - Flammable liquid\nScope: DG handling + stuffing + ocean freight\n1 x 20GP\nInclude all DG documentation\nThanks,\nQuincy Lee",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_dg",
+    "labeled_at": "2026-05-16T10:46:00.000000+00:00"
+},
+{
+    "email_text": "Dear Sales,\nDG cargo quote needed\nPKG to Hamburg\nClass 8 - Corrosive\nUN2796\nInclude loading, lashing, stuffing with DG approval\n1 x 40GP\nRegards,\nRebecca Ng",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_dg",
+    "labeled_at": "2026-05-16T10:47:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales,\nPlease quote special equipment shipment\nPKG to Los Angeles\n1 x 40FR (Flat Rack)\nOOG cargo - dimensions exceed standard container\nInclude:\n- Special lashing and securing\n- Export handling\n- Ocean freight\nCargo: Heavy machinery\nThanks,\nSteve Wong",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_oog",
+    "labeled_at": "2026-05-16T10:48:00.000000+00:00"
+},
+{
+    "email_text": "Dear Team,\nQuote for oversized cargo\nPort Klang to Rotterdam\n1 x 40OT (Open Top)\nNon-stackable cargo\nInclude loading, lashing, stuffing\nCargo height: 3.2 meters\nRegards,\nTina Lim",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "synthetic_oog",
+    "labeled_at": "2026-05-16T10:49:00.000000+00:00"
+},
+{
+    "email_text": "Hi sales,\nPlease quote us from pkg to manzanillo.\nScope\u00a0\u00a0\u00a0\u00a0 :\nLoose pickup (\nAir ride-Truck\n)\nStuffing at DHL allied CFS/warehouse\nLocal charges\nOcean freight(with TT & schedule)\nPickup\u00a0\u00a0 : SRM INTEGRATION (M) SDN BHD, PLOT 16, BAYAN LEPAS TECHNOPLEX, INDUSTRIAL ZONE PHASE 4, BAYAN LEPAS,PENANG 11900 MALAYSIA\nTerm\u00a0\u00a0\u00a0\u00a0\u00a0 : Door to Port\nPOL\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : Please consider nearest port.\nPOD\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : MANZANILLO PORT\nEqp\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : 1 x 40\u2019 DV\nCargo is non-stackable.\nStop #\nDescription\nL x W x H (UOM)\nHandling Units\nWeight\nUOM\n1\nARS-B743\n110.00 x 110.00 x 180.00\u00a0(CM)\n1\u00a0CRATE\n250\nKG\n1\nMODEL: XD244 (MAC SN: XD244-598ZI)\n280.00 x 210.00 x 210.00\u00a0(CM)\n1\u00a0CRATE\n1300\nKG\n1\nARS-B740\n110.00 x 110.00 x 180.00\u00a0(CM)\n1\u00a0CRATE\n250\nKG\n1\nMODEL: XD244 (MAC SN: XD244-595ZI\n280.00 x 210.00 x 210.00\u00a0(CM)\n1\u00a0CRATE\n1300\nKG\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +603\u00a0 8020\n2912\nFax\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +606\u00a0 8023 5016\nMobile\u00a0\u00a0\u00a0\u00a0 +\n019 3449940\nMazuin.Ismail@dhl.com\nwww.dhl.com\nNote: Storage charges will be effective as below\n.\nCount from ATA date, based on chargeable weight , excluded Saturday, Sunday\n& Public Holiday\n.\n1\nst\n& 2\nnd\nday\n\u2013\nFOC\n3\nrd\nday\n\u2013\nMYR\n0.90/kg\nor min 30.00\nAfter 4\nth\nday\n\u2013\nMYR\n1.00/kg\nor min 30.00\nDHL Global Forwarding \u2013 Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n\u2013\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n\u2019\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weighed prior to loading onto a vessel.\nVerification of the weight is the responsibility of the shipper\n. This will come into effect on July 1st, 2026. Due to this new regulation additional charges may apply and will subsequently be added to our pricing offer.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "FREIGHT FORWARDING"
+    ],
+    "subject": "FW: C26050494 TEX MY TO MX 20260514638, PO# 4516484165, Booking # TEX173855",
+    "labeled_at": "2026-05-18T06:43:32.636520+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to balikpapan\nSPECIAL INSTRUCTION : 2 X 20 GP 14 FREE TIME DAYS AT POD IS MUST INCOTERM FOB PORT KLANG.\nINCO TERMS: FOB\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nWOODEN PALLET\n40\n110.00\n110.00\n105.00\ncms\n1.271\n50.84\nKilogram\n779\n31160\nTotal\n40\n50.84\n31160.000\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +603\u00a0 8020\n2912\nFax\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +606\u00a0 8023 5016\nMobile\u00a0\u00a0\u00a0\u00a0 +\n019 3449940\nMazuin.Ismail@dhl.com\nwww.dhl.com\nNote: Storage charges will be effective as below\n.\nCount from ATA date, based on chargeable weight , excluded Saturday, Sunday\n& Public Holiday\n.\n1\nst\n& 2\nnd\nday\n\u2013\nFOC\n3\nrd\nday\n\u2013\nMYR\n0.90/kg\nor min 30.00\nAfter 4\nth\nday\n\u2013\nMYR\n1.00/kg\nor min 30.00\nDHL Global Forwarding \u2013 Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n\u2013\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n\u2019\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weighed prior to loading onto a vessel.\nVerification of the weight is the responsibility of the shipper\n. This will come into effect on July 1st, 2026. Due to this new regulation additional charges may apply and will subsequently be added to our pricing offer.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "processed_email_correction",
+    "predicted": [
+        "FREIGHT FORWARDING",
+        "WAREHOUSE"
+    ],
+    "subject": "FW: Spot Bid Request(RSSB-38376) TIME SENSITIVE RESPONSE REQUIRED Customer: HALLIBURTON GLOBAL FREIGHT",
+    "labeled_at": "2026-05-25T13:46:53.234679+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to manila\nPickup\u00a0\u00a0 : VITROX TECHNOLOGIES SDN.BHD., 746, PERSIARAN CASSIA SELATAN 3, BATU KAWAN INDUSTRIAL PARK, BANDAR CASSIA,PULAU PINANG 14110 MALAYSIA\nTerm\u00a0\u00a0\u00a0\u00a0\u00a0 : Door to Port\nPOL\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : Please consider nearest port.\nPOD\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : Manila\nEqp\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : 1 x 40\u2019 DV\nCargo is non-stackable.\nStop #\nDescription\nL x W x H (UOM)\nHandling Units\nWeight\nUOM\n1\nTAPE&REEL_TRAYTOTRAY_VITROX/TR3000I\n325.00 x 224.00 x 225.00\u00a0(CM)\n1\u00a0CARTON\n2544\nKG\n1\nTAPE & REEL_TRAY TO TRAY_VITROX\n325.00 x 224.00 x 225.00\u00a0(CM)\n1\u00a0CARTON\n2544\nKG",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "FREIGHT FORWARDING"
+    ],
+    "subject": "FW: C26050310 TEX MY TO PH DTP 20260510526, PO# 4516484475, Booking # TEX173146",
+    "labeled_at": "2026-05-26T07:26:21.331705+00:00"
+},
+{
+    "email_text": "Dear Team,\n// CRITICAL //\nCould you please provide rates from\nPort Klang Port to HCM\u00a0Port\nbased on\n1 x 40 FR\nfor the below details.\nDeadline:\n08.06.2026 14:30 UTC +08:00\nEquipment type:\n1 x 40 FR\nShipment ready:\n11.06.2026 00:00 UTC +08:00\nRequired Delivery: 15.06.2025 00:00 UTC +08:00\nPOL :\nPort Klang Port\nPOD\n:\nHCM\nPort\nCommodity:\nOilfield equipment.\nCargo Details:\nPackage No\nQuantity\nL (cm)\nW (cm)\nH (cm)\nWeight (kgs)\nCBM\n1\n1\n1280\n40\n40\n1410\n2.05\nThanks and Regards.\nSameer Raut\nExpert\nBids &\nPricing, Industrial Projects, GSC Mumbai\nDHL Global Forwarding Freight Shared Services (India) LLP\n5th Floor, Tower C, Embassy 247 Park,\nLBS Road, Vikhroli (W), Mumbai \u2013 400083, India\nTel: +91 22 61152500 (Board)\nTel: +91 22 61152748 (Direct)",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "processed_email_correction",
+    "predicted": [
+        "FREIGHT FORWARDING",
+        "WAREHOUSE"
+    ],
+    "subject": "C26060249 SLB FCL MY to VN SP2026060600005",
+    "labeled_at": "2026-06-08T06:56:15.847743+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to manila\nGood day!\nPlease find below detail and advise the rates.\nScope\u00a0\u00a0\u00a0\u00a0 :\nLoose pickup (\nAir ride-Truck\n)\nStuffing at DHL allied CFS/warehouse\nLocal charges\nOcean freight(with TT & schedule)\nPickup\u00a0\u00a0 : DIANDUO (M) SDN. BHD., LOT 11, LINGKARAN SULTAN MOHAMED 1, KAWASAN PERUSAHAAN BANDAR SULTAN SULEIMAN, PORT KLANG,SELANGOR 42000 MALAYSIA\nTerm\u00a0\u00a0\u00a0\u00a0\u00a0 : Door to Port\nPOL\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : Please consider nearest port.\nPOD\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : Manila\nEqp\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : 1 x 20\u2019 DV\nCargo is non-stackable.\nStop #\nDescription\nL x W x H (UOM)\nHandling Units\nWeight\nUOM\n1\nSUPPLY AND INSTALLATION OF CDU\n110.00 x 110.00 x 13.00\u00a0(CM)\n7\u00a0PALLET\n680\nKG\nThanks & Regards,\nTanvi DEDHIA\nExpert\u00a0 \u2013 Bids & Pricing, Industrial Projects, GSC Mumbai\nDHL GLOBAL FORWARDING FREIGHT SHARED SERVICES (INDIA)LLP\n5th Floor, Tower A, Embassy 247 Park,\nLBS Road, Vikhroli (W), Mumbai \u2013 400083, India.\nMob: +91 82915 27716\nTel: +91 22 61152600 (Board)\nEmail:\ntanvi.dedhia@dhl.com\n| Web:\nwww.dhl.com/industrialprojects\nLinkedIn:\nhttps://wwwlinkedin.com/in/tanvi-dedhia-942381186\nFrom:\nCTSIDoNotReply@ctsi-global.com\n<\nCTSIDoNotReply@ctsi-global.com\nSent:\n04 June 2026 09:56\nTo:\nTI.Request (DHL US) <\nTI.Request@dhl.com\nSubject:\nTexas Instruments Spot Quote Request - Quote# 20260603742, PO# 4516402064, Booking # TEX176364\nPLEASE DO NOT RESPOND TO THIS EMAIL. SEE BELOW FOR QUOTING INSTRUCTIONS\nPlease submit your quote by the specified deadline. Refer to the special instructions for the details. Submissions received after the deadline will not be considered.\nTEXAS INSTRUMENTS requests a quote on the following load:\nQuote # 20260603742\nPO # 4516402064\nStop # 1\nShipping From :\nDIANDUO (M) SDN. BHD.\nLOT 11, LINGKARAN SULTAN MOHAMED 1\nKAWASAN PERUSAHAAN BANDAR SULTAN SULEIMAN\nPORT KLANG,SELANGOR 42000 MALAYSIA\nLANNIE CHAN\n3 3176 1314\nPE@DIANDUO.COM.MY\nShipping To :\nTI (PHILIPPINES), INC.\nCLARK TI SPECIAL ECONOMIC ZONE\nGIL PUYAT AVE, CLARK PROBE FREEPORT ZONE\nANGELES CITY,PAMPANGA 2025 PHILIPPINES\nJONAH BULSECO\n917 800 7440\nJ-BULSECO@TI.COM\nPickup Date : 2026-05-09\nPickup Time: N/A\nDelivery Date: 2026-07-06\nDelivery Time: N/A\nSpecial Instructions : CAPITAL AIR AND FCL OCEAN DOOR TO PORT RATE DEADLINE OF SUBMISSION: WITHIN 72 HRS EXFAC DATE: 06/29/2026 TERMS EXW_ INCLUDE OTHER DETAILS ON CTSI REMARKS/COMMENTS SECTION: \u2022 GROSS WEIGHT OR CHARGEABLE WEIGHT FOR AIR MODE, \u2022 # OF CONTAINER AND SIZE ON SEA MODE \u2022 OPTIONAL ** IF THEY CAN PROVIDE DTD RATE \u2022 PORT OF DISCHARGE FOR SEA MODE O MANILA \u2013 WHAT IS THE RATE O SUBIC \u2013 WHAT IS THE RATE\nReason Notes : CAPITAL | SAP DATE - 05/09/2026 | READY DATE - 06/29/2026 | TERMS - EXW| LINE - 10 | TRACKER FORM AND CCC FILE SENT, YET TO RECEIVE CIPL SHARE POINT APPROVAL REQUESTED 06/03 KP\nStop #\nDescription\nL x W x H (UOM)\nHandling Units\nNMFC\nHazmat\nClass\nWeight\nUOM\n1\nSUPPLY AND INSTALLATION OF CDU\n110.00 x 110.00 x 13.00\u00a0(CM)\n7\u00a0PALLET\nN\n680\nKG\nclick here to QUOTE :\nhttps://my.ctsi-global.com//ECTMSv2/Products/Loads/3559/C3559_CarrierAcceptance.aspx?prodid=T42&alid=9E39F895-BF60-4B79-BDD3-C6400F45F006\nor Click\nhere",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "FREIGHT FORWARDING",
+        "WAREHOUSE"
+    ],
+    "subject": "FW: C26060166 TEX MY TO PH DTP 20260603742, PO# 4516402064, Booking # TEX176364 ",
+    "labeled_at": "2026-06-08T06:56:40.028605+00:00"
+},
+{
+    "email_text": "Hi sales\nThis is import shipment from lbu to pkg. please quote us for inbound charges.\nSPECIAL INSTRUCTION : DO ARRANGE FOR STUFFING AND BOOK INTO EARLIEST VESSEL TO PKL FOR ON-FORWARDING TO KMN. DO REFER SDS AS PER ATTACHED.\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nBARITE 1.5 TON BAG\n250\n115.00\n115.00\n75.00\ncms\n0.992\n248\nKilogram\n1500\n375000\nTotal\n250\n248\n375000.000\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +603\u00a0 8020\n2912\nFax\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +606\u00a0 8023 5016\nMobile\u00a0\u00a0\u00a0\u00a0 +\n019 3449940\nMazuin.Ismail@dhl.com\nwww.dhl.com\nNote: Storage charges will be effective as below\n.\nCount from ATA date, based on chargeable weight , excluded Saturday, Sunday\n& Public Holiday\n.\n1\nst\n& 2\nnd\nday\n\u2013\nFOC\n3\nrd\nday\n\u2013\nMYR\n0.90/kg\nor min 30.00\nAfter 4\nth\nday\n\u2013\nMYR\n1.00/kg\nor min 30.00\nDHL Global Forwarding \u2013 Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n\u2013\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n\u2019\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weighed prior to loading onto a vessel.\nVerification of the weight is the responsibility of the shipper\n. This will come into effect on July 1st, 2026. Due to this new regulation additional charges may apply and will subsequently be added to our pricing offer.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "FREIGHT FORWARDING",
+        "WAREHOUSE"
+    ],
+    "subject": "FW: Spot Bid Request(RSSB-38561) TIME SENSITIVE RESPONSE REQUIRED Customer: HALLIBURTON GLOBAL FREIGHT",
+    "labeled_at": "2026-06-08T06:58:08.621449+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to balikpapan\nSPECIAL INSTRUCTION : 1 X 20 GP 14 FREE TIME DAYS AT POD IS MUST INCOTERM FOB PORT KLANG.\nINCO TERMS: FOB\nINCOTERM NAMED PLACE : Port Klang\nPRODUCT DETAILS\nProduct Number\nProduct Description\nBilled Quantity\nLength\nWidth\nHeight\nDim UOM\nCube\nExt Volume\nWeight UOM\nWeight\nExt Weight\nHazardous Class\nWOODEN PALLET\n20\n110.00\n110.00\n105.00\ncms\n1.271\n25.42\nKilogram\n779\n15580\nTotal\n20\n25.42\n15580.000\nSHIPPER DETAILS\nShipper Name\nAddress One\nCity\nCountry\nPORT KELANG\nSSTC\nPort Klang\nMALAYSIA\nORIGIN PORT DETAILS\nPort Name\nPort Code\nPort Type\nPORT KELANG\nPKG\nSEA\nCONSIGNEE DETAILS\nConsignee Name\nAddress One\nCity\nCountry\nBALIKPAPAN, KALIMANTAN\nBalikpapan\nINDONESIA\nDESTINATION PORT DETAILS\nPort Name\nPort Code\nPort Type\nBALIKPAPAN, KALIMANTAN\nBPN\nSEA\nPlease do not reply to this message or send an email to this address. This message is for informational purposes only and this box is not monitored. Any questions or concerns should be sent to\nhelpnvision@nvisionglobal.com",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "processed_email_correction",
+    "predicted": [
+        "FREIGHT FORWARDING",
+        "WAREHOUSE"
+    ],
+    "subject": "FW: Spot Bid Request(RSSB-38459) TIME SENSITIVE RESPONSE REQUIRED Customer: HALLIBURTON GLOBAL FREIGHT",
+    "labeled_at": "2026-06-08T06:58:21.444025+00:00"
+},
+{
+    "email_text": "Dear Team,\nCould you please provide rates from\nPort Klang Port to Fremantle\u00a0Port\nbased on\n1 x 40 FR\nfor the below details.\nDeadline:\n08.06.2026 14:30 UTC +08:00\nEquipment type:\n1 x 40 FR\nShipment ready:\n16.06.2026 00:00 UTC +08:00\nRequired Delivery: 30.06.2025 00:00 UTC +08:00\nPOL :\nPort Klang Port\nPOD\n: Fremantle Port\nCommodity:\nOilfield equipment.\nCargo Details:\nPackage No\nQuantity\nL (cm)\nW (cm)\nH (cm)\nWeight (kgs)\nCBM\n1\n1\n600\n240\n250\n10001\n36\nTOTAL\n1\n10001\n36\nRegards,\nNitish Karade\nExpert- Industrial Projects\nDHL Global Forwarding Freight Shared Services (India) LLP\n5th Floor, Tower C, Embassy 247 Park,\nLBS Road, Vikhroli (W),\nMumbai \u2013 400083.\nIndia.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "processed_email_correction",
+    "predicted": [
+        "FREIGHT FORWARDING",
+        "WAREHOUSE"
+    ],
+    "subject": "C26060206 SLB FCL MY TO AU SP2026060400041",
+    "labeled_at": "2026-06-08T07:00:13.219575+00:00"
+},
+{
+    "email_text": "Hi sales\nGood day!\nPlease find below detail and advise the rates.\nScope\u00a0\u00a0\u00a0\u00a0 :\nLoose pickup (\nAir ride-Truck\n)\nStuffing at DHL allied CFS/warehouse\nLocal charges\nOcean freight(with TT & schedule)\nPickup\u00a0\u00a0 : TT ENGINEERING & MANUFACTURING SDN. BHD., NO.1 , JALAN 6/1. LOT 3472 , KAWASAN SERI KEMBANGA, SERI KEMBANGAN,SELANGOR 43300 MALAYSIA\nTerm\u00a0\u00a0\u00a0\u00a0\u00a0 : Door to Port\nPOL\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : MYPKG\nPOD\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 :\nManzanillo\nEqp\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : 1 x 20\u2019 DV\nCargo is non-stackable.\nStop #\nDescription\nL x W x H (UOM)\nHandling Units\nWeight\nUOM\n1\nCASSETTE LDF 266X90 (HYDE)-GOLD W/COVER\n120.00 x 110.00 x 95.00\u00a0(CM)\n1\u00a0SKID\n163\nKG\n1\n270X90MM LEADFRAME\n120.00 x 110.00 x 120.00\u00a0(CM)\n1\u00a0SKID\n163\nKG\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +603\u00a0 8020\n2912\nFax\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +606\u00a0 8023 5016\nMobile\u00a0\u00a0\u00a0\u00a0 +\n019 3449940\nMazuin.Ismail@dhl.com\nwww.dhl.com\nNote: Storage charges will be effective as below\n.\nCount from ATA date, based on chargeable weight , excluded Saturday, Sunday\n& Public Holiday\n.\n1\nst\n& 2\nnd\nday\n\u2013\nFOC\n3\nrd\nday\n\u2013\nMYR\n0.90/kg\nor min 30.00\nAfter 4\nth\nday\n\u2013\nMYR\n1.00/kg\nor min 30.00\nDHL Global Forwarding \u2013 Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n\u2013\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n\u2019\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weighed prior to loading onto a vessel.\nVerification of the weight is the responsibility of the shipper\n. This will come into effect on July 1st, 2026. Due to this new regulation additional charges may apply and will subsequently be added to our pricing offer.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "FREIGHT FORWARDING",
+        "WAREHOUSE"
+    ],
+    "subject": "FW: C26050887 TEX MY TO MX DTD 20260526651, PO# 4516495871, Booking # TEX174404",
+    "labeled_at": "2026-06-08T07:01:00.606474+00:00"
+},
+{
+    "email_text": "Hi sales\nPlease quote us from pkg to manila port.\nScope\u00a0\u00a0\u00a0\u00a0 :\nLoose pickup (\nAir ride-Truck\n)\nStuffing at DHL allied CFS/warehouse\nLocal charges\nOcean freight(with TT & schedule)\nPickup\u00a0\u00a0 : EXENTEC SERVICES MALAYSIA SDN BHD, PLOT 284, PINTASAN KAMPUNG JAWA 2, BAYAN LEPAS FIZ PHASE 3, BAYAN LEPAS,PENANG 11900 MALAYSIA\nTerm\u00a0\u00a0\u00a0\u00a0\u00a0 : Door to Port\nPOL\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : MYPKG\nPOD\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : Manila\nEqp\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : 1 x 40\u2019\u00a0 DV\nCargo is non-stackable.\nStop #\nDescription\nL x W x H (UOM)\nHandling Units\nWeight\nUOM\n1\nSUPPLY AND INSTALLATION OF CDU\n630.00 x 66.00 x 70.00\u00a0(CM)\n1\u00a0CRATE\n624\nKG\n1\nSUPPLY AND INSTALLATION OF CDU\n131.00 x 131.00 x 118.00\u00a0(CM)\n1\u00a0CRATE\n240\nKG\nThanks & Regards,\nTanvi DEDHIA\nExpert\u00a0 \u2013 Bids & Pricing, Industrial Projects, GSC Mumbai\nDHL GLOBAL FORWARDING FREIGHT SHARED SERVICES (INDIA)LLP\n5th Floor, Tower A, Embassy 247 Park,\nLBS Road, Vikhroli (W), Mumbai \u2013 400083, India.\nMob: +91 82915 27716\nTel: +91 22 61152600 (Board)\nEmail:\ntanvi.dedhia@dhl.com\n| Web:\nwww.dhl.com/industrialprojects\nLinkedIn:\nhttps://wwwlinkedin.com/in/tanvi-dedhia-942381186\nFrom:\nCTSIDoNotReply@ctsi-global.com\n<\nCTSIDoNotReply@ctsi-global.com\nSent:\n04 June 2026 10:24\nTo:\nTI.Request (DHL US) <\nTI.Request@dhl.com\nSubject:\nTexas Instruments Spot Quote Request - Quote# 20260602732, PO# 4516402064, Booking # TEX176158\nPLEASE DO NOT RESPOND TO THIS EMAIL. SEE BELOW FOR QUOTING INSTRUCTIONS\nPlease submit your quote by the specified deadline. Refer to the special instructions for the details. Submissions received after the deadline will not be considered.\nTEXAS INSTRUMENTS requests a quote on the following load:\nQuote # 20260602732\nPO # 4516402064\nStop # 1\nShipping From :\nEXENTEC SERVICES MALAYSIA SDN BHD\nPLOT 284, PINTASAN KAMPUNG JAWA 2\nBAYAN LEPAS FIZ PHASE 3\nBAYAN LEPAS,PENANG 11900 MALAYSIA\nMOHAMAD IRWAN ROSLAN\n17 582 1636\nMOHAMADIRWAN.ROSLAN@EXENTEC.NET\nShipping To :\nTI TIPC\nCLARK FREEPORT ZONE, GIL PUYAT AVE, ANGELES CITY\nPAMPANGA,ZZ 2025 PHILIPPINES\nJONAH BULSECO\n917 800 7440\nJ-BULSECO@TI.COM\nPickup Date : 2026-05-09\nPickup Time: N/A\nDelivery Date: 2026-06-17\nDelivery Time: N/A\nSpecial Instructions : CAPITAL AIR AND FCL OCEAN DOOR TO PORT RATE DEADLINE OF SUBMISSION: WITHIN 72 HRS EXFAC DATE: _6/10/2026_ TERMS:_EXW_________ INCLUDE OTHER DETAILS ON CTSI REMARKS/COMMENTS SECTION: \u2022 GROSS WEIGHT OR CHARGEABLE WEIGHT FOR AIR MODE, \u2022 # OF CONTAINER AND SIZE ON SEA MODE \u2022 OPTIONAL ** IF THEY CAN PROVIDE DTD RATE \u2022 PORT OF DISCHARGE FOR SEA MODE O MANILA \u2013 WHAT IS THE RATE O SUBIC \u2013 WHAT IS THE RATE BILLS TI CLARK\nReason Notes : REQUESTED SHIPMENT AND DIMS AND WEIGHT DETAILS. WE NEED TO QUOTE AFTER THE SUPPLIER CONFIRMS THE LENGHT ON THE 1ST ITEM JH 6/3 1 CRATE : 630 X 66 X 70CM (624KG) 1 PALLET : 131 X 131 X 118CM (240KG)\nStop #\nDescription\nL x W x H (UOM)\nHandling Units\nNMFC\nHazmat\nClass\nWeight\nUOM\n1\nSUPPLY AND INSTALLATION OF CDU\n630.00 x 66.00 x 70.00\u00a0(CM)\n1\u00a0CRATE\nN\n624\nKG\n1\nSUPPLY AND INSTALLATION OF CDU\n131.00 x 131.00 x 118.00\u00a0(CM)\n1\u00a0CRATE\nN\n240\nKG\nclick here to QUOTE :\nhttps://my.ctsi-global.com//ECTMSv2/Products/Loads/3559/C3559_CarrierAcceptance.aspx?prodid=T42&alid=A5B05C6F-D17B-4BAA-9CD9-A38A54CE3C70\nor Click\nhere",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "FREIGHT FORWARDING",
+        "WAREHOUSE"
+    ],
+    "subject": "FW: C26060170 TEX MY TO PH DTP 20260602732, PO# 4516402064, Booking # TEX176158",
+    "labeled_at": "2026-06-08T07:02:30.758108+00:00"
+},
+{
+    "email_text": "Hi sales\nGood day!\nPlease find below detail and advise the rates.\nScope\u00a0\u00a0\u00a0\u00a0 :\nStuffing at DHL allied CFS/warehouse\nLocal charges\nOcean freight(with TT & schedule)\nPickup\u00a0\u00a0 : EAGLE TEST SYSTEMS C/O SCHENKER LOGISTICS (MALAYSIA) SDN. BHD., 47-A JALAN BATU MAUNG, DIS3PLEX FREE COMMERCIAL ZONE, PENANG,MY 11960 MALAYSIA\nTerm\u00a0\u00a0\u00a0\u00a0\u00a0 : Door to Port\nPOL\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : MYPKG\nPOD\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : Manila\nEqp\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 : 1 x 20\u2019 DV\nCargo is non-stackable.\nStop #\nDescription\nL x W x H (UOM)\nHandling Units\nWeight\nUOM\n1\nBOARD_CALKIOSK_ETS800LITE_ASM5692\n126.00 x 83.00 x 128.00\u00a0(CM)\n1\u00a0CRATE\n191\nKG",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 1,
+    "source": "processed_email_correction",
+    "predicted": [
+        "FREIGHT FORWARDING",
+        "WAREHOUSE"
+    ],
+    "subject": "FW: C26050854 TEX MY TO PH DTP 20260526536, PO# 4516316167, Booking # TEX174982",
+    "labeled_at": "2026-06-08T07:02:43.008815+00:00"
+},
+{
+    "email_text": "Hello Team,\nCan you please provide budgetary rates for the below?\nDelivery Terms:\nFCA Port of Export\nCarrier Terms:\nPort to Port Container Service\nInclusive of:\nOrigin THC\nOcean Freight\nDestination THC\nPOL:\nKuala Lumpur, MYS\nPOD:\nHouston, TX\nCargo:\nLimited info from vendor \u2013 Only provided container count and weight for each\n11x 40\u2019 Containers \u2013 10mt per container\nKind Regards,\nMazuin Ismail (Awin)\nSenior Executive, Industrial Project\nDHL Global Forwarding (Malaysia) Sdn. Bhd.\nLevel 2, MCT Tower,\nSkyPark One City,\nJalan USJ 25/1,\n47650 Subang Jaya,\nSelangor, Malaysia.\nTel\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +603\u00a0 8020\n2912\nFax\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 +606\u00a0 8023 5016\nMobile\u00a0\u00a0\u00a0\u00a0 +\n019 3449940\nMazuin.Ismail@dhl.com\nwww.dhl.com\nNote: Storage charges will be effective as below\n.\nCount from ATA date, based on chargeable weight , excluded Saturday, Sunday\n& Public Holiday\n.\n1\nst\n& 2\nnd\nday\n\u2013\nFOC\n3\nrd\nday\n\u2013\nMYR\n0.90/kg\nor min 30.00\nAfter 4\nth\nday\n\u2013\nMYR\n1.00/kg\nor min 30.00\nDHL Global Forwarding \u2013 Excellence. Simply delivered.\nDeutsche Post DHL Group\nThis message is from DHL Global Forwarding Malaysia and may contain confidential business information.\nIt is intended solely for the use of the individual to whom it is addressed. If you are not the intended recipient please contact the sender and delete this message and any attachment from your system. Unauthorized publication, use, dissemination, forwarding, printing or copying of this email and its attachments is strictly prohibited.\nGO\nGREEN\n\u2013\nEnvironmental protection with DHL\nPlease consider your environmental responsibility before printing this email\nDisclaimer for RFQ\n\u2019\ns\nContainer Weighing:\nThe International Maritime Organization (IMO) amended the Safety of Life at Sea Convention (SOLAS) to rule that all containers must be weighed prior to loading onto a vessel.\nVerification of the weight is the responsibility of the shipper\n. This will come into effect on July 1st, 2026. Due to this new regulation additional charges may apply and will subsequently be added to our pricing offer.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "source": "processed_email_correction",
+    "predicted": [
+        "WAREHOUSE"
+    ],
+    "subject": "FW: Power Project RFI / MEAA-00001 / ACC Units / Various Origins - Houston, TX",
+    "labeled_at": "2026-06-08T07:05:20.407500+00:00"
+},
+{
+    "email_text": "Urgent air freight booking required for 3 boxes of electronics from Frankfurt to Chicago. Please confirm the next available flight schedule and provide the AWB number.",
+    "nvocc": 0,
+    "ff": 1,
+    "warehouse": 0
+},
+{
+    "email_text": "Requesting immediate air cargo space for pharmaceutical supplies requiring strict temperature monitoring from Mumbai to London Heathrow. Flight must be direct.",
+    "nvocc": 0,
+    "ff": 1,
+    "warehouse": 0
+},
+{
+    "email_text": "Please provide an air freight quotation for 200kg of automotive spare parts from Tokyo Haneda to Los Angeles Airport. Include customs clearance details.",
+    "nvocc": 0,
+    "ff": 1,
+    "warehouse": 0
+},
+{
+    "email_text": "We have an urgent air shipment ready for dispatch from Shanghai. Please arrange airport-to-airport transit for 5 crates of machinery components.",
+    "nvocc": 0,
+    "ff": 1,
+    "warehouse": 0
+},
+{
+    "email_text": "Please issue the Ocean Bill of Lading for our 20ft container bound for Rotterdam. The container has been gated in at the port terminal, awaiting vessel loading.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0
+},
+{
+    "email_text": "Need ocean freight rates for a 40ft High Cube container from Ningbo to New York. This is a port-to-port CY/CY shipment only; no destination handling required.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0
+},
+{
+    "email_text": "Can you check the vessel schedule and container tracking for booking ref 987654? Ensure the shipping line confirms the container allocation for the next sailing.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0
+},
+{
+    "email_text": "Booking request for 3x40ft dry van containers for export next week. Please forward the empty container release order so we can arrange factory stuffing.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0
+},
+{
+    "email_text": "Please provide your monthly storage charges per pallet position. We need long-term inventory management, periodic cycle counting, and pallet shrink-wrapping services.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1
+},
+{
+    "email_text": "We need to schedule an inbound truck delivery tomorrow for cross-docking. 15 pallets need to be unloaded, sorted by SKU, and reloaded onto local delivery vans immediately.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1
+},
+{
+    "email_text": "Our factory requires secure warehouse space for raw materials. The goods must be systematically tracked in your WMS with real-time stock level reporting.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1
+},
+{
+    "email_text": "We are looking for a fulfillment center to handle our e-commerce pick and pack services. Orders must be packed into custom boxes and handed over to local couriers.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1
+},
+{
+    "email_text": "Need ocean freight rates...",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0,
+    "none": 0
+},
+{
+    "email_text": "Please quote for warehousing 20 pallets of electronics.",
+    "nvocc": 0,
+    "ff": 0,
+    "warehouse": 1
+},
+{
+    "email_text": "Need urgent air freight rates from London to Mumbai.",
+    "nvocc": 0,
+    "ff": 1,
+    "warehouse": 0
+},
+{
+    "email_text": "Booking a 40ft container for ocean export next week.",
+    "nvocc": 1,
+    "ff": 0,
+    "warehouse": 0
+},
+{
+    "email_text": "Hi Team,\n\nWe have an urgent export requirement from Penang to Chicago. Please arrange for a 40' HC container to pick up the cargo directly from our supplier's factory. \n\nBefore loading, the cargo needs to be moved to your facility for palletization, shrink-wrapping, and temporary storage for about 5 days until the vessel booking is secured. \n\nScope of Work:\n- Origin factory pickup & delivery to your warehouse\n- 5 days warehouse storage, palletization, and export labeling\n- Stuffing, container drayage, and export customs clearance\n- Ocean freight (Port-to-Port container service) under your own Bill of Lading\n\nPOL: MYPKG (Port Klang)\nPOD: USORD (Chicago Hub via LAX)\nEquipment: 1 x 40' HC\nCargo: 22 Pallets of Industrial Sensors, 14,500 KG total, stackable.\n\nPlease share your absolute best dynamic rates covering the warehouse handling, freight forwarding services, and ocean freight contract rates.",
+    "nvocc": 1,
+    "ff": 1,
+    "warehouse": 1
+},
+{
+    "email_text": "Dear Logistics Partners,\n\nCan you please provide a comprehensive quotation for an upcoming consolidation shipment from Shanghai to Rotterdam? \n\nWe have multiple suppliers delivering loose cargo (LCL) to your designated Shanghai container freight station (CFS). Your team will need to receive, verify, and store these goods for up to a week before consolidating them into a single 20' DV container. Since we require house bills of lading (HBL) issued under your own NVOCC handle, please include your document fees as well as the complete freight forwarding arrangement from origin to destination port.\n\nDetails:\n- Service: Door to Port\n- Warehouse Requirement: Origin CFS consolidation, tallying, and 7-day storage\n- Carrier Terms: Port to Port container freight service\n- Volume: 1 x 20' DV (Consolidated from 4 different vendors)\n- Commodity: Retail garments and footwear (Non-hazardous)\n\nKindly send over the rate sheet itemizing warehouse handling, local forwarding fees, and ocean freight.",
+    "nvocc": 1,
+    "ff": 1,
+    "warehouse": 1
+},
+{
+    "email_text": "Hello Pricing Team,\n\nWe are looking for an all-in rate for a machinery shipment from Ho Chi Minh City to Hamburg. \n\nDue to space issues at our manufacturing plant, we need to dispatch the cargo immediately to your local warehouse for cross-docking and container stuffing. You will also need to handle the export customs documentation and manage the complete port logistics as our freight forwarder. We specifically require an NVOCC carrier contract for the ocean leg to guarantee space allocation and secure a House Bill of Lading.\n\nShipment Scope:\n1. Warehouse receiving, handling, and stuffing into container\n2. Origin local forwarding management, export declaration, and customs filing\n3. Ocean freight service with guaranteed vessel allocation\n\nPOL: VNSGN\nPOD: DEHAM\nCargo: 1 x 40' DV - Heavy machinery spare parts, 18,000 KG\n\nLooking forward to your swift quotation.",
+    "nvocc": 1,
+    "ff": 1,
+    "warehouse": 1
+},
+{
+    "email_text": "Attn: Sales Department,\n\nPlease advise your best rates and upcoming vessel schedule for a shipment from Nhava Sheva to New York.\n\nThe cargo will be sent to your warehouse facility first for export crating and cargo inspection. Once packaged, please manage the local drayage, container stuffing, and customs clearance. We need this shipped under your house routing utilizing your NVOCC services, as our end customer requires an independent HBL for their letter of credit processing.\n\nSpecifications:\n- Scope: Warehouse storage & crating + Forwarding + Ocean Freight\n- POL: INNSA\n- POD: USNYC\n- Cargo description: Electronic components, loose boxes arriving at warehouse\n- Final Equipment: 1 x 20' DV\n\nPlease include the warehouse handling rates, documentation fees, and the net ocean freight schedule.",
+    "nvocc": 1,
+    "ff": 1,
+    "warehouse": 1
+},
+{
+    "email_text": "Hi Sales Team,\n\nGood day. Please quote for the following door-to-port import requirement from Port Klang to Port of Manila.\n\nOur vendor will deliver the cargo directly to your warehouse hub in Malaysia. We require your team to handle the warehouse receiving, pallet wrapping, and devanning/stuffing procedures. Following warehouse preparation, your forwarding team must manage the export customs manifest and book the ocean leg. We require an NVOCC house bill of lading for this transaction.\n\nMovement Details:\n- Origin Facility: Your Port Klang Warehouse Hub\n- POL: MYPKG\n- POD: MNL\n- Equipment: 1 x 40' DV\n- Cargo: 15 Crates of Automotive Components, 12,000 KG\n- Special instructions: Non-stackable cargo, warehouse must handle with care during stuffing.\n\nPlease share the detailed pricing breakdown at your earliest convenience.",
+    "nvocc": 1,
+    "ff": 1,
+    "warehouse": 1
+}
+]

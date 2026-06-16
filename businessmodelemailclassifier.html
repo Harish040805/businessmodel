@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Model Email Classifier</title>
+    <style>
+        #splash { position: fixed; inset: 0; z-index: 9999; background: #f0f4f8; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 28px; transition: opacity 0.5s ease; }
+        #splash.fade-out { opacity: 0; pointer-events: none; }
+        .splash-badge { display: inline-block; background: #578cfd; color: #facc15; font-family: 'Segoe UI', sans-serif; font-size: 10px; font-weight: 700; letter-spacing: 2.5px; text-transform: uppercase; padding: 5px 14px; border-radius: 20px; margin-bottom: 10px; }
+        .splash-brand { text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        .splash-brand h1 { font-size: 26px; font-weight: 800; color: #0f172a; letter-spacing: -0.5px; }
+        .splash-brand h1 span { color: #578cfd; }
+        .splash-brand p { margin-top: 6px; font-size: 13px; color: #64748b; }
+        .splash-checks { display: flex; flex-direction: column; gap: 10px; width: 300px; }
+        .check-row { display: flex; align-items: center; gap: 12px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px 16px; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+        .check-icon { width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 13px; font-weight: 700; font-family: 'Segoe UI', sans-serif; }
+        .check-icon.waiting { background: #f1f5f9; border: 2px solid #cbd5e1; color: #94a3b8; }
+        .check-icon.loading { background: rgba(37,99,235,0.08); border: 2px solid #578cfd; color: #578cfd; animation: spin 1s linear infinite; }
+        .check-icon.done    { background: rgba(37,99,235,0.08); border: 2px solid #578cfd; color: #578cfd; }
+        @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+        .check-label { font-family: 'Segoe UI', sans-serif; font-size: 13px; font-weight: 600; color: #0f172a; }
+        .check-sub { font-family: 'Segoe UI', sans-serif; font-size: 11px; color: #94a3b8; margin-top: 2px; }
+        .splash-bar { width: 300px; height: 3px; background: #e2e8f0; border-radius: 2px; overflow: hidden; }
+        .splash-fill { height: 100%; background: linear-gradient(90deg, #578cfd, #facc15); border-radius: 2px; width: 0%; transition: width 0.5s ease; }
+        .splash-status { font-family: 'Segoe UI', sans-serif; font-size: 12px; color: #94a3b8; text-align: center; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f0f4f8;
+            margin: 0; padding: 40px 20px; color: #1e293b;
+        }
+        .title {
+            margin: 0 auto 24px auto; color: #0f172a;
+            border-bottom: 3px solid #facc15;
+            padding: 16px 20px; background-color: #ffffff;
+            border-radius: 6px; max-width: 1400px; font-weight: 700;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05); text-align: center;
+        }
+        .container {
+            max-width: 1500px; margin: 0 auto; padding: 0;
+            box-sizing: border-box; width: 100%;
+            display: grid; grid-template-columns: 1fr 300px;
+            gap: 20px; align-items: start;
+        }
+        .left-column { display: flex; flex-direction: column; }
+        .right-column {
+            display: flex; flex-direction: column; gap: 16px;
+            background-color: #578cfd; padding: 24px;
+            border-radius: 8px;
+            box-shadow: 0 8px 20px rgba(15, 23, 42, 0.384);
+            box-sizing: border-box;
+        }
+        textarea {
+            width: 100%; height: 610px; padding: 18px;
+            box-sizing: border-box; background-color: #ffffff;
+            border: 2px solid #cbd5e1; border-radius: 6px;
+            resize: vertical; font-size: 15px; color: #0f172a;
+            line-height: 1.6; transition: border-color 0.2s, box-shadow 0.2s;
+        }
+        textarea:hover { border-color: #94a3b8; }
+        textarea:focus { border-color: #578cfd; outline: none; box-shadow: 0 0 0 4px rgba(37,99,235,0.15); }
+        button {
+            background-color: #facc15; color: #0f172a;
+            padding: 14px 20px; border: none; border-radius: 6px;
+            cursor: pointer; font-size: 15px; font-weight: 600;
+            width: 100%; transition: background-color 0.2s, transform 0.1s;
+            box-sizing: border-box; box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        button:hover { background-color: #fde047; }
+        button:active { transform: scale(0.98); }
+        #clearBtn { background-color: #ffffff; color: #404040; border: 2px solid #ffffff; }
+        #clearBtn:hover { background-color: #f4f4f4; border-color: #d9d9d9; }
+        .result-section {
+            display: none; background-color: #ffffff;
+            padding: 20px; border-radius: 6px; color: #0f172a;
+            box-sizing: border-box; border-top: 4px solid #facc15;
+            box-shadow: inset 0 2px 4px rgba(0,0,0,0.02);
+        }
+        .tags-container { margin-bottom: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+        .tag {
+            display: inline-block; background-color: #578cfd; color: #ffffff;
+            padding: 6px 14px; border-radius: 4px; font-size: 13px;
+            font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;
+        }
+        .tag.others { background-color: #64748b; }
+        .loading-dots { display: none; justify-content: center; gap: 8px; padding: 20px 0; }
+        .loading-dots span {
+            width: 12px; height: 12px; border-radius: 50%;
+            background-color: #ffffff; opacity: 0.4;
+            animation: dot-bounce 1.2s infinite ease-in-out;
+        }
+        .loading-dots span:nth-child(1) { animation-delay: 0s; }
+        .loading-dots span:nth-child(2) { animation-delay: 0.2s; }
+        .loading-dots span:nth-child(3) { animation-delay: 0.4s; }
+        @keyframes dot-bounce {
+            0%, 80%, 100% { transform: scale(0.6); opacity: 0.4; }
+            40% { transform: scale(1); opacity: 1; }
+        }
+        .justify-block { margin-bottom: 10px; }
+        .justify-heading { font-size: 12px; font-weight: 700; color: #475569; margin-bottom: 6px; text-transform: uppercase; }
+        .keyword-chip { display: inline-block; background-color: #facc15; color: #0f172a; padding: 4px 10px; border-radius: 4px; font-size: 12px; font-weight: 600; margin: 2px 4px 2px 0; }
+        .error-class {
+            color: #ffffff; font-size: 14px; font-weight: 500;
+            margin-top: 4px; display: none; background: #dc2626;
+            padding: 14px; border-radius: 6px; box-sizing: border-box; text-align: center;
+        }
+        ::-webkit-scrollbar { width: 10px; height: 10px; }
+        ::-webkit-scrollbar-track { background: #f1f5f9; }
+        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 5px; }
+        ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+    </style>
+</head>
+<body>
+
+<div id="splash">
+    <div class="splash-brand">
+        <div class="splash-badge">Vizoroz Mail Intelligence</div>
+        <h1>Business Model <span>Email Classifier</span></h1>
+        <p>Identify NVOCC &amp; Warehouse from email content</p>
+    </div>
+    <div class="splash-checks">
+        <div class="check-row">
+            <div class="check-icon waiting" id="icon-ml"><span id="ml-sym">○</span></div>
+            <div>
+                <div class="check-label">ML Classifier</div>
+                <div class="check-sub">port 5000 — NVOCC / Warehouse model</div>
+            </div>
+        </div>
+        <div class="check-row">
+            <div class="check-icon waiting" id="icon-rag"><span id="rag-sym">○</span></div>
+            <div>
+                <div class="check-label">AI RAG Engine</div>
+                <div class="check-sub">port 8000 — Ollama vector memory</div>
+            </div>
+        </div>
+    </div>
+    <div class="splash-bar"><div class="splash-fill" id="progressBar"></div></div>
+    <div class="splash-status" id="splashStatus">Initializing systems, please wait...</div>
+</div>
+
+<div id="mainApp" style="display:none;">
+    <div class="container">
+        <div class="left-column">
+            <textarea id="emailInput" placeholder="&#9993; Please enter your email text here to get classified..."></textarea>
+        </div>
+        <div class="right-column">
+            <h2 class="title">Business Model Email Classifier</h2>
+            <button id="submitBtn">&#9993; &nbsp; Classify Email</button>
+            <button id="clearBtn" type="button">&#x54; &nbsp; Clear Text</button>
+            <div id="errorMsg" class="error-class">
+                ⚠️ Please paste some email text before classifying.
+            </div>
+             <div class="loading-dots" id="loadingDots">
+                <span></span><span></span><span></span>
+            </div>
+            <div class="result-section" id="resultSection">
+                <h4 style="margin-top:0;margin-bottom:10px;font-size:14px;color:#7f8c8d;">Predicted Labels</h4>
+                <div class="tags-container" id="tagsContainer"></div>
+                <div id="justifyContainer" style="margin-top:14px;"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    const ML_URL  = 'http://127.0.0.1:5000';
+    const RAG_URL = 'http://127.0.0.1:8000';
+    let mlReady = false, ragReady = false;
+
+    function setIcon(id, state) {
+        const el  = document.getElementById('icon-' + id);
+        const sym = document.getElementById(id + '-sym');
+        el.className = 'check-icon ' + state;
+        sym.textContent = state === 'done' ? '✓' : state === 'loading' ? '↻' : '○';
+    }
+
+    function updateProgress() {
+        document.getElementById('progressBar').style.width = ((mlReady ? 1 : 0) + (ragReady ? 1 : 0)) * 50 + '%';
+    }
+
+    async function pollML() {
+        setIcon('ml', 'loading');
+        document.getElementById('splashStatus').textContent = 'Waiting for ML Classifier...';
+        while (true) {
+            try {
+                const r = await fetch(ML_URL + '/', { signal: AbortSignal.timeout(3000) });
+                if (r.status !== undefined) { mlReady = true; setIcon('ml', 'done'); updateProgress(); break; }
+            } catch(e) {}
+            await new Promise(r => setTimeout(r, 2000));
+        }
+    }
+
+async function pollRAG() {
+    setIcon('rag', 'loading');
+    try {
+        const r = await fetch(RAG_URL + '/docs', { signal: AbortSignal.timeout(3000) });
+        if (r.status !== undefined) { ragReady = true; setIcon('rag', 'done'); updateProgress(); }
+    } catch(e) { setIcon('rag', 'waiting'); }
+}
+
+async function startPolling() {
+    await pollML();
+    pollRAG();
+    document.getElementById('splashStatus').textContent = 'System ready. Loading classifier...';
+    await new Promise(r => setTimeout(r, 700));
+    const splash = document.getElementById('splash');
+    splash.classList.add('fade-out');
+    setTimeout(() => {
+        splash.style.display = 'none';
+        document.getElementById('mainApp').style.display = 'block';
+    }, 550);
+}
+    startPolling();
+
+
+    async function triggerClassification() {
+        const text = document.getElementById('emailInput').value;
+        if (!text || !text.trim()) return;
+        document.getElementById('errorMsg').style.display = 'none';
+        document.getElementById('resultSection').style.display = 'none';
+        document.getElementById('loadingDots').style.display = 'flex';
+        
+        try {
+            const response = await fetch('/predict', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ email_text: text })
+            });
+            const data = await response.json();
+            const tagsContainer = document.getElementById('tagsContainer');
+            tagsContainer.innerHTML = '';
+            data.predicted_labels.forEach(label => {
+                const span = document.createElement('span');
+                span.className = 'tag' + (label === 'Others' ? ' others' : '');
+                span.textContent = label;
+                tagsContainer.appendChild(span);
+            });
+
+            const justifyContainer = document.getElementById('justifyContainer');
+            justifyContainer.innerHTML = '';
+            if (data.justification) {
+                Object.keys(data.justification).forEach(label => {
+                    const block = document.createElement('div');
+                    block.className = 'justify-block';
+                    const heading = document.createElement('div');
+                    heading.className = 'justify-heading';
+                    heading.textContent = label;
+                    block.appendChild(heading);
+                    data.justification[label].forEach(item => {
+                        const kw = document.createElement('span');
+                        kw.className = 'keyword-chip';
+                        kw.textContent = item.keyword;
+                        block.appendChild(kw);
+                    });
+                    justifyContainer.appendChild(block);
+                });
+            }
+    document.getElementById('loadingDots').style.display = 'none';
+            document.getElementById('resultSection').style.display = 'block';
+        } catch (error) {
+            console.error('Classification request failed:', error);
+            document.getElementById('loadingDots').style.display = 'none';
+        }
+    }
+    document.getElementById('submitBtn').addEventListener('click', () => {
+        const text = document.getElementById('emailInput').value;
+        if (!text || !text.trim()) { document.getElementById('errorMsg').style.display = 'block'; return; }
+        triggerClassification();
+    });
+
+    document.getElementById('clearBtn').addEventListener('click', () => {
+        document.getElementById('emailInput').value = '';
+        document.getElementById('tagsContainer').innerHTML = '';
+        document.getElementById('resultSection').style.display = 'none';
+        document.getElementById('errorMsg').style.display = 'none';
+        clearSavedText();
+    });
+
+    const DB_NAME = 'EmailClassifierDB', DB_VERSION = 1, STORE_NAME = 'saved_text';
+    let db;
+    const dbReq = indexedDB.open(DB_NAME, DB_VERSION);
+    dbReq.onupgradeneeded = e => {
+        if (!e.target.result.objectStoreNames.contains(STORE_NAME))
+            e.target.result.createObjectStore(STORE_NAME, { keyPath: 'id' });
+    };
+    dbReq.onsuccess = e => { db = e.target.result; loadSavedText(); };
+
+    function loadSavedText() {
+        const req = db.transaction([STORE_NAME], 'readonly').objectStore(STORE_NAME).get('current_email');
+        req.onsuccess = () => { if (req.result) document.getElementById('emailInput').value = req.result.text; };
+    }
+    function saveText(text) {
+        if (!db) return;
+        db.transaction([STORE_NAME], 'readwrite').objectStore(STORE_NAME).put({ id: 'current_email', text });
+    }
+    function clearSavedText() {
+        if (!db) return;
+        db.transaction([STORE_NAME], 'readwrite').objectStore(STORE_NAME).delete('current_email');
+    }
+    document.getElementById('emailInput').addEventListener('input', e => {
+        saveText(e.target.value);
+    });
+    document.querySelectorAll('button').forEach(btn => {
+        if (btn.textContent.trim() === 'Analyze') {
+            btn.addEventListener('click', async () => {
+                const emailText = document.getElementById('emailInput').value;
+                if (!emailText.trim()) return;
+
+                document.getElementById('errorMsg').style.display = 'none';
+                const originalBtnText = btn.textContent;
+                btn.textContent = 'Analyzing with Hybrid Models...';
+                btn.disabled = true;
+
+                try {
+                    const backendResponse = await fetch('http://127.0.0.1:5000/predict', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ email_text: emailText })
+                    });
+                    const backendData = await backendResponse.json();
+                    let backendLabels = backendData.predicted_labels || [];
+
+                    let transformersLabels = [];
+                    try {
+                        const { pipeline } = await import('https://cdn.jsdelivr.net/npm/@xenova/transformers');
+                        const classifier = await pipeline('zero-shot-classification', 'Xenova/distilbert-base-uncased-mnli');
+                        const zeroShotResult = await classifier(emailText, ['NVOCC', 'Freight Forwarding', 'Warehouse']);
+                        
+                        if (zeroShotResult && zeroShotResult.labels) {
+                            zeroShotResult.labels.forEach((label, index) => {
+                                if (zeroShotResult.scores[index] > 0.45) {
+                                    transformersLabels.push(label);
+                                }
+                            });
+                        }
+                    } catch (e) {
+                        console.error(e);
+                    }
+
+                    const combinedSet = new Set([...backendLabels, ...transformersLabels]);
+                    const finalLabels = Array.from(combinedSet);
+
+                    const tagsContainer = document.getElementById('tagsContainer');
+                    tagsContainer.innerHTML = '';
+                    
+                    if (finalLabels.length === 0) {
+                        finalLabels.push('Others');
+                    }
+
+                    finalLabels.forEach(label => {
+                        const span = document.createElement('span');
+                        span.className = 'tag';
+                        span.textContent = label;
+                        tagsContainer.appendChild(span);
+                    });
+
+                    document.getElementById('resultSection').style.display = 'block';
+                } catch (err) {
+                    document.getElementById('errorMsg').textContent = 'Analysis connection failure.';
+                    document.getElementById('errorMsg').style.display = 'block';
+                } finally {
+                    btn.textContent = originalBtnText;
+                    btn.disabled = false;
+                }
+            });
+        }
+    });
+</script>
+</body>
+</html>

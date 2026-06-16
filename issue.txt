@@ -1,0 +1,20 @@
+I feel that the content are loading very slow when classifying the emails. Also, the model should justify why the email is NVOCC or Warehouse or Freight Forwarding by extracting the keywords from the email and displaying it. So I want...
+
+
+
+
+
+Speed in loading the classified labels.
+
+
+
+Accuracy in terms of keywords, sentence formed, meaning, sender and reciever, grammar, language used, all.
+
+
+
+Correctness for the classified labels.
+
+
+
+Justification (simple keywords extracting and displaying)
+
