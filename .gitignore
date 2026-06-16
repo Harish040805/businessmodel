@@ -1,0 +1,13 @@
+# Ignore absolutely everything by default
+*
+
+# Allow the folders so Git can read inside them
+!backend/
+!frontend/
+
+# Allow your specific necessary files
+!.gitignore
+!backend/business_model_labels.json
+!backend/requirements.txt
+!backend/train_pipeline.py
+!frontend/templates/index.html
